@@ -5,12 +5,17 @@ on:
     - cron: "0 8 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # 🔑 This gives permission to push
+
 jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,4 +34,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add README.md
           git commit -m "Update quote of the day" || echo "No changes to commit"
-          git push
+          git push origin main
