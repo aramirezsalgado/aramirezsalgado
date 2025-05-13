@@ -6,7 +6,7 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your daily quote will appear here..._
+_I am working so a daily quote will appear here..._
 <!--QUOTE_END-->
 
 ---
