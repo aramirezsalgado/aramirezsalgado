@@ -6,7 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I am working so a daily quote will appear here..._
+_Life moves on and so should we._
+
+**— Spencer Johnson**
 <!--QUOTE_END-->
 
 ---
