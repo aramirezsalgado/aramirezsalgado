@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm Alana Salcedo (@aramirezsalgado)
+### Hi there, I'm Andrea Ramirez-Salgado (@aramirezsalgado)
 
-I'm an educator, researcher, and builder of creative AI + IoT learning experiences.
+I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning experiences and projects
 
 ---
 
-### ✨ Quote of the Day
+### Quote of the Day
 <!--QUOTE_START-->
 _Your daily quote will appear here..._
 <!--QUOTE_END-->
