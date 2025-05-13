@@ -16,6 +16,8 @@ My current GitHub Action for updating the quote of the day is set to update:
 
 schedule:
   - cron: "0 8 * * *"
+
+
 This means it runs daily at 8:00 AM UTC, which is 4:00 AM ET
 
 ---
