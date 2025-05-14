@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life moves on and so should we._
+_The best dreams happen when you're awake._
 
-**— Spencer Johnson**
+**— Cherie Gilderbloom**
 <!--QUOTE_END-->
 
 ---
