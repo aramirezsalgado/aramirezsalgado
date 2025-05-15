@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The best dreams happen when you're awake._
+_We cannot expect to be happy always... by experiencing evil as well as good we become wise._
 
-**— Cherie Gilderbloom**
+**— Hans Christian Andersen**
 <!--QUOTE_END-->
 
 ---
