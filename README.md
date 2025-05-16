@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_We cannot expect to be happy always... by experiencing evil as well as good we become wise._
+_Don't be afraid to give up the good to go for the great._
 
-**— Hans Christian Andersen**
+**— John D. Rockefeller**
 <!--QUOTE_END-->
 
 ---
