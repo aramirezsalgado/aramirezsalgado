@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't be afraid to give up the good to go for the great._
+_Everything that irritates us about others._
 
-**— John D. Rockefeller**
+**— Carl Jung**
 <!--QUOTE_END-->
 
 ---
