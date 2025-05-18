@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Everything that irritates us about others._
+_Life is and will ever remain an equation incapable of solution, but it contains certain known factors. _
 
-**— Carl Jung**
+**— Nikola Tesla**
 <!--QUOTE_END-->
 
 ---
