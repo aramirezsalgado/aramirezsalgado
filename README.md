@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is and will ever remain an equation incapable of solution, but it contains certain known factors. _
+_At every moment where language can't go, that's your mind._
 
-**— Nikola Tesla**
+**— Bodhidharma**
 <!--QUOTE_END-->
 
 ---
