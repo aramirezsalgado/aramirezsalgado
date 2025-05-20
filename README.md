@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_At every moment where language can't go, that's your mind._
+_People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love._
 
-**— Bodhidharma**
+**— Dr. Seuss**
 <!--QUOTE_END-->
 
 ---
