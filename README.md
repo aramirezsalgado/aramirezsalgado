@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love._
+_Speak when you are angry - and you'll make the best speech you'll ever regret._
 
-**— Dr. Seuss**
+**— Laurence J. Peter**
 <!--QUOTE_END-->
 
 ---
