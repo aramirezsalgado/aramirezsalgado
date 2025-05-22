@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Speak when you are angry - and you'll make the best speech you'll ever regret._
+_People tend to complicate their own lives, as if living weren't already complicated enough._
 
-**— Laurence J. Peter**
+**— Carlos Ruiz Zafon**
 <!--QUOTE_END-->
 
 ---
