@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_People tend to complicate their own lives, as if living weren't already complicated enough._
+_All happiness depends on courage and work._
 
-**— Carlos Ruiz Zafon**
+**— Honore de Balzac**
 <!--QUOTE_END-->
 
 ---
