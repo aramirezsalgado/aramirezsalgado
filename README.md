@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All happiness depends on courage and work._
+_You can't tell big dreams to small minded people._
 
-**— Honore de Balzac**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
