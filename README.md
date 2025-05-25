@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can't tell big dreams to small minded people._
+_There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen._
 
-**— Steve Harvey**
+**— Wayne Dyer**
 <!--QUOTE_END-->
 
 ---
