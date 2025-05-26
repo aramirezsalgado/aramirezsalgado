@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen._
+_When asked, how do you write? I invariably answer, one word at a time._
 
-**— Wayne Dyer**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
