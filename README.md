@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When asked, how do you write? I invariably answer, one word at a time._
+_The true soldier fights not because he hates what is in front of him, but because he loves what is behind him._
 
-**— Stephen King**
+**— Gilbert Chesterton**
 <!--QUOTE_END-->
 
 ---
