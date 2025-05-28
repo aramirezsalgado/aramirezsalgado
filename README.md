@@ -6,7 +6,7 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The true soldier fights not because he hates what is in front of him, but because he loves what is behind him._
+_It isn't that they can't see the solution. It is that they can't see the problem._
 
 **— Gilbert Chesterton**
 <!--QUOTE_END-->
