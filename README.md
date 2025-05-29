@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It isn't that they can't see the solution. It is that they can't see the problem._
+_Simple words, repeated daily, can change your life._
 
-**— Gilbert Chesterton**
+**— Maxime Lagace**
 <!--QUOTE_END-->
 
 ---
