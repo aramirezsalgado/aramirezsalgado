@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Simple words, repeated daily, can change your life._
+_There are no secrets to success. It is the result of preparation, hard work, and learning from failure._
 
-**— Maxime Lagace**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
