@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There are no secrets to success. It is the result of preparation, hard work, and learning from failure._
+_It's just a bad day, not a bad life._
 
-**— Colin Powell**
+**— Mary Engelbreit**
 <!--QUOTE_END-->
 
 ---
