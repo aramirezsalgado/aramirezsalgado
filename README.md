@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It's just a bad day, not a bad life._
+_Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  _
 
-**— Mary Engelbreit**
+**— Estee Lauder**
 <!--QUOTE_END-->
 
 ---
