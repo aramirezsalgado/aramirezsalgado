@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  _
+_In order to control myself I must first accept myself by going with and not against my nature._
 
-**— Estee Lauder**
+**— Bruce Lee**
 <!--QUOTE_END-->
 
 ---
