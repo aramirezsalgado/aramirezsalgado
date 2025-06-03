@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In order to control myself I must first accept myself by going with and not against my nature._
+_You're never too old for anything._
 
-**— Bruce Lee**
+**— Betty White**
 <!--QUOTE_END-->
 
 ---
