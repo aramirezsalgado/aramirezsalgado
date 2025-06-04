@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You're never too old for anything._
+_Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver._
 
-**— Betty White**
+**— Ayn Rand**
 <!--QUOTE_END-->
 
 ---
