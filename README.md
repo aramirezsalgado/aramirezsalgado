@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver._
+_Things turn out best for the people who make the best of the way things turn out._
 
-**— Ayn Rand**
+**— John Wooden**
 <!--QUOTE_END-->
 
 ---
