@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Things turn out best for the people who make the best of the way things turn out._
+_Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you._
 
-**— John Wooden**
+**— Lao Tzu**
 <!--QUOTE_END-->
 
 ---
