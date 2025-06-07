@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you._
+_It is never too late to be what you might have been._
 
-**— Lao Tzu**
+**— George Eliot**
 <!--QUOTE_END-->
 
 ---
