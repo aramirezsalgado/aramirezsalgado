@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is never too late to be what you might have been._
+_The educated differ from the uneducated as much as the living differ from the dead._
 
-**— George Eliot**
+**— Aristotle**
 <!--QUOTE_END-->
 
 ---
