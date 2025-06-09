@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The educated differ from the uneducated as much as the living differ from the dead._
+_Begin now to be what you will be hereafter._
 
-**— Aristotle**
+**— St. Jerome**
 <!--QUOTE_END-->
 
 ---
