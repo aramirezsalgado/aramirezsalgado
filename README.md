@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Begin now to be what you will be hereafter._
+_Only when one allows themself the right to die, do they then give yourself the permission to live._
 
-**— St. Jerome**
+**— C. Sean McGee**
 <!--QUOTE_END-->
 
 ---
