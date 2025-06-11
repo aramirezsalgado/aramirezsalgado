@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Only when one allows themself the right to die, do they then give yourself the permission to live._
+_Closing your eyes and listening to silence is self-care._
 
-**— C. Sean McGee**
+**— Maxime Lagace**
 <!--QUOTE_END-->
 
 ---
