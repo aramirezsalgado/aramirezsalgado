@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Closing your eyes and listening to silence is self-care._
+_If someone betrays you once, it's their fault; if they betray you twice, it's your fault._
 
-**— Maxime Lagace**
+**— Eleanor Roosevelt**
 <!--QUOTE_END-->
 
 ---
