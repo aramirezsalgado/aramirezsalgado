@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If someone betrays you once, it's their fault; if they betray you twice, it's your fault._
+_Whenever you find yourself on the side of the majority, it is time to reform._
 
-**— Eleanor Roosevelt**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
