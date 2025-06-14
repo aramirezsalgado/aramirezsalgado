@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Whenever you find yourself on the side of the majority, it is time to reform._
+_Love your enemies, for they tell you your faults._
 
-**— Mark Twain**
+**— Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
