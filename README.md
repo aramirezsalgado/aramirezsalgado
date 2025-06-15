@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Love your enemies, for they tell you your faults._
+_Change yourself and you have done your part in changing the world._
 
-**— Benjamin Franklin**
+**— Paramahansa Yogananda**
 <!--QUOTE_END-->
 
 ---
