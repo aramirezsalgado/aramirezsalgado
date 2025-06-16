@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Change yourself and you have done your part in changing the world._
+_Perfection is not attainable, but if we chase perfection we can catch excellence._
 
-**— Paramahansa Yogananda**
+**— Vince Lombardi**
 <!--QUOTE_END-->
 
 ---
