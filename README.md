@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Perfection is not attainable, but if we chase perfection we can catch excellence._
+_The truth is simple. If it was complicated, everyone would understand it._
 
-**— Vince Lombardi**
+**— Walt Whitman**
 <!--QUOTE_END-->
 
 ---
