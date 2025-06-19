@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Pursue what catches your heart, not what catches your eyes._
+_While we may not be able to control all that happens to us, we can control what happens inside us._
 
-**— Roy T. Bennett**
+**— Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
