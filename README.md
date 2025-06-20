@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_While we may not be able to control all that happens to us, we can control what happens inside us._
+_Why compare yourself with others? No one in the entire world can do a better job of being you than you._
 
-**— Benjamin Franklin**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
