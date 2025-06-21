@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Why compare yourself with others? No one in the entire world can do a better job of being you than you._
+_To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless._
 
-**— Unknown**
+**— Deepak Chopra**
 <!--QUOTE_END-->
 
 ---
