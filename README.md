@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless._
+_The biggest room in the world is the room for improvement._
 
-**— Deepak Chopra**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
