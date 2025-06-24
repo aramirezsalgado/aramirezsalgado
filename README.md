@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you believe in a thing, believe in it all the way, implicitly and unquestionable._
+_As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt._
 
-**— Walt Disney**
+**— Jack London**
 <!--QUOTE_END-->
 
 ---
