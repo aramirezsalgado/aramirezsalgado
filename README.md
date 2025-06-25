@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt._
+_You gain strength, courage and confidence by every experience in which you really stop to look fear in the face._
 
-**— Jack London**
+**— Eleanor Roosevelt**
 <!--QUOTE_END-->
 
 ---
