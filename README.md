@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You gain strength, courage and confidence by every experience in which you really stop to look fear in the face._
+_The strength of a wall is neither greater nor less than the courage of the men who defend it. _
 
-**— Eleanor Roosevelt**
+**— Genghis Khan**
 <!--QUOTE_END-->
 
 ---
