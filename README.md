@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The strength of a wall is neither greater nor less than the courage of the men who defend it. _
+_Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit._
 
-**— Genghis Khan**
+**— Napoleon Hill**
 <!--QUOTE_END-->
 
 ---
