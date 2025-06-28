@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit._
+_In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing._
 
-**— Napoleon Hill**
+**— Theodore Roosevelt**
 <!--QUOTE_END-->
 
 ---
