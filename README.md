@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing._
+_Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse._
 
-**— Theodore Roosevelt**
+**— Alfred Adler**
 <!--QUOTE_END-->
 
 ---
