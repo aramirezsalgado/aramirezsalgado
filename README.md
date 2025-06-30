@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse._
+_The goal is not to show how great you are to others, but how vulnerable you are to yourself._
 
-**— Alfred Adler**
+**— Maxime Lagace**
 <!--QUOTE_END-->
 
 ---
