@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The goal is not to show how great you are to others, but how vulnerable you are to yourself._
+_What's the point in being smart enough to read, if everything you read makes you dumb?_
 
-**— Maxime Lagace**
+**— C. Sean McGee**
 <!--QUOTE_END-->
 
 ---
