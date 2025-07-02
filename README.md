@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_What's the point in being smart enough to read, if everything you read makes you dumb?_
+_It is not what we get. But who we become, what we contribute... that gives meaning to our lives._
 
-**— C. Sean McGee**
+**— Tony Robbins**
 <!--QUOTE_END-->
 
 ---
