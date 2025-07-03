@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is not what we get. But who we become, what we contribute... that gives meaning to our lives._
+_If you want things to be different, perhaps the answer is to become different yourself._
 
-**— Tony Robbins**
+**— Norman Vincent Peale**
 <!--QUOTE_END-->
 
 ---
