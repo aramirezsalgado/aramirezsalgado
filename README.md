@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you want things to be different, perhaps the answer is to become different yourself._
+_In the End, we will remember not the words of our enemies, but the silence of our friends._
 
-**— Norman Vincent Peale**
+**— Martin Luther King, Jr.**
 <!--QUOTE_END-->
 
 ---
