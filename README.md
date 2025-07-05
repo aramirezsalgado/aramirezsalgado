@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In the End, we will remember not the words of our enemies, but the silence of our friends._
+_All problems are interpersonal relationship problems._
 
-**— Martin Luther King, Jr.**
+**— Alfred Adler**
 <!--QUOTE_END-->
 
 ---
