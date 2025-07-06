@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All problems are interpersonal relationship problems._
+_Wheels of justice grind slow but grind fine._
 
-**— Alfred Adler**
+**— Sun Tzu**
 <!--QUOTE_END-->
 
 ---
