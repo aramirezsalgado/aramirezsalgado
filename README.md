@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Wheels of justice grind slow but grind fine._
+_Instead of worrying about what you cannot control, shift your energy to what you can create._
 
-**— Sun Tzu**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
