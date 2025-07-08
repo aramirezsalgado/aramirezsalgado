@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Instead of worrying about what you cannot control, shift your energy to what you can create._
+_If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin._
 
-**— Roy T. Bennett**
+**— Charles Darwin**
 <!--QUOTE_END-->
 
 ---
