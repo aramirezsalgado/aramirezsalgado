@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin._
+_A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. _
 
-**— Charles Darwin**
+**— Buddha**
 <!--QUOTE_END-->
 
 ---
