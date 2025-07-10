@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. _
+_Your purpose will be clear only when you listen to your heart._
 
-**— Buddha**
+**— Lolly Daskal**
 <!--QUOTE_END-->
 
 ---
