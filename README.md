@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your purpose will be clear only when you listen to your heart._
+_The wisest men follow their own direction._
 
-**— Lolly Daskal**
+**— Euripides**
 <!--QUOTE_END-->
 
 ---
