@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The wisest men follow their own direction._
+_Everybody by your side ain't on your side._
 
-**— Euripides**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
