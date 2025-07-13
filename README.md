@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Everybody by your side ain't on your side._
+_No one has ever become poor by giving._
 
-**— Steve Harvey**
+**— Anne Frank**
 <!--QUOTE_END-->
 
 ---
