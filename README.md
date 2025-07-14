@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No one has ever become poor by giving._
+_Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live._
 
-**— Anne Frank**
+**— Nicolas Chamfort**
 <!--QUOTE_END-->
 
 ---
