@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live._
+_Absorb what is useful, discard what is useless and add what is specifically your own.  _
 
-**— Nicolas Chamfort**
+**— Bruce Lee**
 <!--QUOTE_END-->
 
 ---
