@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Absorb what is useful, discard what is useless and add what is specifically your own.  _
+_The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. _
 
-**— Bruce Lee**
+**— St. Jerome**
 <!--QUOTE_END-->
 
 ---
