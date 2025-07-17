@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. _
+_Those who know, do. Those that understand, teach._
 
-**— St. Jerome**
+**— Aristotle**
 <!--QUOTE_END-->
 
 ---
