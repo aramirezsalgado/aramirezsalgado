@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Those who know, do. Those that understand, teach._
+_The best revenge is to be unlike him who performed the injury._
 
-**— Aristotle**
+**— Marcus Aurelius**
 <!--QUOTE_END-->
 
 ---
