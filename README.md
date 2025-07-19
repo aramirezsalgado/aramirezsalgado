@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The best revenge is to be unlike him who performed the injury._
+_If everyone is moving forward together, then success takes care of itself._
 
-**— Marcus Aurelius**
+**— Henry Ford**
 <!--QUOTE_END-->
 
 ---
