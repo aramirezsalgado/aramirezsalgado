@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If everyone is moving forward together, then success takes care of itself._
+_Don't waste time on excuses. Just get it done._
 
-**— Henry Ford**
+**— Ralph Marston**
 <!--QUOTE_END-->
 
 ---
