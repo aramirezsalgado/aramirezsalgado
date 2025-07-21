@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't waste time on excuses. Just get it done._
+_If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed._
 
-**— Ralph Marston**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
