@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed._
+_The pain of parting is nothing to the joy of meeting again._
 
-**— Mark Twain**
+**— Charles Dickens**
 <!--QUOTE_END-->
 
 ---
