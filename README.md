@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The pain of parting is nothing to the joy of meeting again._
+_I must also have a dark side if I am to be whole._
 
-**— Charles Dickens**
+**— Carl Jung**
 <!--QUOTE_END-->
 
 ---
