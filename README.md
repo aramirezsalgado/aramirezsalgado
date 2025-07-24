@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I must also have a dark side if I am to be whole._
+_A dream doesn't become reality through magic it takes sweat, determination and hard work._
 
-**— Carl Jung**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
