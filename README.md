@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A dream doesn't become reality through magic it takes sweat, determination and hard work._
+_Do not use life to give life to death. Do not use death to bring death to life._
 
-**— Colin Powell**
+**— Zhuangzi**
 <!--QUOTE_END-->
 
 ---
