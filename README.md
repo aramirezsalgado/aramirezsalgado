@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do not use life to give life to death. Do not use death to bring death to life._
+_When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done._
 
-**— Zhuangzi**
+**— Jack Butcher**
 <!--QUOTE_END-->
 
 ---
