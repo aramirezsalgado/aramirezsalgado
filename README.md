@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done._
+_The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution._
 
-**— Jack Butcher**
+**— Albus Dumbledore**
 <!--QUOTE_END-->
 
 ---
