@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution._
+_To do two things at once is to do neither._
 
-**— Albus Dumbledore**
+**— Publilius Syrus**
 <!--QUOTE_END-->
 
 ---
