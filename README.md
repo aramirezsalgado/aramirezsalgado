@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To do two things at once is to do neither._
+_Truth is not something outside to be discovered, it is something inside to be realized._
 
-**— Publilius Syrus**
+**— Osho**
 <!--QUOTE_END-->
 
 ---
