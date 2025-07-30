@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Truth is not something outside to be discovered, it is something inside to be realized._
+_Deliberately seek the company of people who influence you to think and act on building the life you desire._
 
-**— Osho**
+**— Napoleon Hill**
 <!--QUOTE_END-->
 
 ---
