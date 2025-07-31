@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Deliberately seek the company of people who influence you to think and act on building the life you desire._
+_Magic is believing in yourself, if you can do that, you can make anything happen._
 
-**— Napoleon Hill**
+**— Johann Wolfgang von Goethe**
 <!--QUOTE_END-->
 
 ---
