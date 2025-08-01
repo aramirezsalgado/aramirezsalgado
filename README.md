@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Magic is believing in yourself, if you can do that, you can make anything happen._
+_Success is never final, failure is never fatal. It's courage that counts._
 
-**— Johann Wolfgang von Goethe**
+**— John Wooden**
 <!--QUOTE_END-->
 
 ---
