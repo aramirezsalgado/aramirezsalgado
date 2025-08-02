@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is never final, failure is never fatal. It's courage that counts._
+_The dead receive more flowers than the living because regret is stronger than gratitude._
 
-**— John Wooden**
+**— Anne Frank**
 <!--QUOTE_END-->
 
 ---
