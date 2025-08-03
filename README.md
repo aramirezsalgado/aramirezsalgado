@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The dead receive more flowers than the living because regret is stronger than gratitude._
+_To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to._
 
-**— Anne Frank**
+**— Kahlil Gibran**
 <!--QUOTE_END-->
 
 ---
