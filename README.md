@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to._
+_Sometimes you put walls up not to keep people out, but to see who cares enough to break them down._
 
-**— Kahlil Gibran**
+**— Socrates**
 <!--QUOTE_END-->
 
 ---
