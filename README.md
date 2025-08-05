@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Sometimes you put walls up not to keep people out, but to see who cares enough to break them down._
+_The universe doesn't allow perfection._
 
-**— Socrates**
+**— Stephen Hawking**
 <!--QUOTE_END-->
 
 ---
