@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The universe doesn't allow perfection._
+_It matters not what someone is born, but what they grow to be._
 
-**— Stephen Hawking**
+**— Albus Dumbledore**
 <!--QUOTE_END-->
 
 ---
