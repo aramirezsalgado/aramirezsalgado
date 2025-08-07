@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It matters not what someone is born, but what they grow to be._
+_Success is about creating value._
 
-**— Albus Dumbledore**
+**— Candice Carpenter**
 <!--QUOTE_END-->
 
 ---
