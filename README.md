@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_We must not sit down and wait for miracles. Up and be going!_
+_Obstacles don't block the path, they are the path._
 
-**— John Eliot**
+**— Zen Proverb**
 <!--QUOTE_END-->
 
 ---
