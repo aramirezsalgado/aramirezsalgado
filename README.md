@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Obstacles don't block the path, they are the path._
+_Your chances of success in any undertaking can always be measured by your belief in yourself._
 
-**— Zen Proverb**
+**— Robert Collier**
 <!--QUOTE_END-->
 
 ---
