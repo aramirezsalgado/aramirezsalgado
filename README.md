@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your chances of success in any undertaking can always be measured by your belief in yourself._
+_There are three classes of people: those who see. Those who see when they are shown. Those who do not see._
 
-**— Robert Collier**
+**— Leonardo da Vinci**
 <!--QUOTE_END-->
 
 ---
