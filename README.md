@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There are three classes of people: those who see. Those who see when they are shown. Those who do not see._
+_Vision is the art of seeing things invisible._
 
-**— Leonardo da Vinci**
+**— Jonathan Swift**
 <!--QUOTE_END-->
 
 ---
