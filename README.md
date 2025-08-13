@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Vision is the art of seeing things invisible._
+_The measure of wisdom is how calm you are when facing any given situation._
 
-**— Jonathan Swift**
+**— Naval Ravikant**
 <!--QUOTE_END-->
 
 ---
