@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The measure of wisdom is how calm you are when facing any given situation._
+_Sometimes things become possible if we want them bad enough._
 
-**— Naval Ravikant**
+**— T.S. Eliot**
 <!--QUOTE_END-->
 
 ---
