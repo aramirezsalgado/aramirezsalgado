@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Sometimes things become possible if we want them bad enough._
+_Insanity is relative. It depends on who has who locked in what cage.  _
 
-**— T.S. Eliot**
+**— Ray Bradbury**
 <!--QUOTE_END-->
 
 ---
