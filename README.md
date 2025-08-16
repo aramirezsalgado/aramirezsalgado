@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Insanity is relative. It depends on who has who locked in what cage.  _
+_The only defense against the world is a thorough knowledge of it._
 
-**— Ray Bradbury**
+**— John Locke**
 <!--QUOTE_END-->
 
 ---
