@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The only defense against the world is a thorough knowledge of it._
+_Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy._
 
-**— John Locke**
+**— Wayne Gretzky**
 <!--QUOTE_END-->
 
 ---
