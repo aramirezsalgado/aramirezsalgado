@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy._
+_Curiosity is the most powerful thing you own._
 
-**— Wayne Gretzky**
+**— James Cameron**
 <!--QUOTE_END-->
 
 ---
