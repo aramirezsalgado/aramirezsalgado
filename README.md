@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Curiosity is the most powerful thing you own._
+_Confidence comes not from always being right but not fearing to be wrong._
 
-**— James Cameron**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
