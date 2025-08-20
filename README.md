@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Confidence comes not from always being right but not fearing to be wrong._
+_Any fool can paint a picture, but it takes a wise man to be able to sell it._
 
-**— Unknown**
+**— Samuel Butler**
 <!--QUOTE_END-->
 
 ---
