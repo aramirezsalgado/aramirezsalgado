@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Ability is a poor man's wealth._
+_The wisdom of life consists in the elimination of the nonessentials._
 
-**— John Wooden**
+**— Lin Yutang**
 <!--QUOTE_END-->
 
 ---
