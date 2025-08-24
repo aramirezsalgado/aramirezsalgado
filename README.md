@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The wisdom of life consists in the elimination of the nonessentials._
+_Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years._
 
-**— Lin Yutang**
+**— Richard Bach**
 <!--QUOTE_END-->
 
 ---
