@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years._
+_If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results._
 
-**— Richard Bach**
+**— Tony Robbins**
 <!--QUOTE_END-->
 
 ---
