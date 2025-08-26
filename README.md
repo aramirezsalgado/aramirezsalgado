@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results._
+_The first man gets the oyster, the second man gets the shell._
 
-**— Tony Robbins**
+**— Andrew Carnegie**
 <!--QUOTE_END-->
 
 ---
