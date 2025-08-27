@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The first man gets the oyster, the second man gets the shell._
+_No great mind has ever existed without a touch of madness._
 
-**— Andrew Carnegie**
+**— Aristotle**
 <!--QUOTE_END-->
 
 ---
