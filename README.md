@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No great mind has ever existed without a touch of madness._
+_To live outside the law, you must be honest. _
 
-**— Aristotle**
+**— Bob Dylan**
 <!--QUOTE_END-->
 
 ---
