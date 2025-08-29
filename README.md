@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To live outside the law, you must be honest. _
+_A golden cage is still just a cage._
 
-**— Bob Dylan**
+**— Anita Krizzan**
 <!--QUOTE_END-->
 
 ---
