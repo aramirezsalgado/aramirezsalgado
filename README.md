@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A golden cage is still just a cage._
+_The friendship that can cease has never been real. _
 
-**— Anita Krizzan**
+**— St. Jerome**
 <!--QUOTE_END-->
 
 ---
