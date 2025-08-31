@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The friendship that can cease has never been real. _
+_Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. _
 
-**— St. Jerome**
+**— Orison Swett Marden**
 <!--QUOTE_END-->
 
 ---
