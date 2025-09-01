@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. _
+_When you consider things like the stars, our affairs don't seem to matter very much, do they?_
 
-**— Orison Swett Marden**
+**— Virginia Woolf**
 <!--QUOTE_END-->
 
 ---
