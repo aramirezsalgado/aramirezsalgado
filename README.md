@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you consider things like the stars, our affairs don't seem to matter very much, do they?_
+_If you do not push the boundaries, you will never know where they are._
 
-**— Virginia Woolf**
+**— T.S. Eliot**
 <!--QUOTE_END-->
 
 ---
