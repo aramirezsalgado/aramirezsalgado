@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you do not push the boundaries, you will never know where they are._
+_We cannot expect to be happy always... by experiencing evil as well as good we become wise._
 
-**— T.S. Eliot**
+**— Hans Christian Andersen**
 <!--QUOTE_END-->
 
 ---
