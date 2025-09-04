@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_We cannot expect to be happy always... by experiencing evil as well as good we become wise._
+_Extraordinary results happen only when you give the best you have to become the best you can be at your most important work._
 
-**— Hans Christian Andersen**
+**— Gary Keller**
 <!--QUOTE_END-->
 
 ---
