@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Extraordinary results happen only when you give the best you have to become the best you can be at your most important work._
+_You may forget with whom you laughed, but you will never forget with whom you wept.  _
 
-**— Gary Keller**
+**— Kahlil Gibran**
 <!--QUOTE_END-->
 
 ---
