@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road._
+_Don't give up the fight, Stand up for your rights._
 
-**— Henry Ward Beecher**
+**— Bob Marley**
 <!--QUOTE_END-->
 
 ---
