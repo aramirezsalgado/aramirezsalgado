@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't give up the fight, Stand up for your rights._
+_If you have only one smile in you give it to the people you love._
 
-**— Bob Marley**
+**— Maya Angelou**
 <!--QUOTE_END-->
 
 ---
