@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you have only one smile in you give it to the people you love._
+_Action may not always bring happiness, but there is no happiness without action._
 
-**— Maya Angelou**
+**— William James**
 <!--QUOTE_END-->
 
 ---
