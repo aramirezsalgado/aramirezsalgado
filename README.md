@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Action may not always bring happiness, but there is no happiness without action._
+_Successful people tend to become more successful because they are always thinking about their successes._
 
-**— William James**
+**— Brian Tracy**
 <!--QUOTE_END-->
 
 ---
