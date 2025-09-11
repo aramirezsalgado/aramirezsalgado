@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Successful people tend to become more successful because they are always thinking about their successes._
+_Death and life have their determined appointments; riches and honors depend upon heaven. _
 
-**— Brian Tracy**
+**— Confucius**
 <!--QUOTE_END-->
 
 ---
