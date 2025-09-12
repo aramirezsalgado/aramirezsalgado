@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Death and life have their determined appointments; riches and honors depend upon heaven. _
+_When something comes from within, when it is a part of you, you have no choice but to live it, to express it._
 
-**— Confucius**
+**— Kamal Ravikant**
 <!--QUOTE_END-->
 
 ---
