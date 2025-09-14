@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Self-control is strength._
+_Live calmly. The time will come when the flowers bloom by themselves._
 
-**— James Allen**
+**— Zen Proverb**
 <!--QUOTE_END-->
 
 ---
