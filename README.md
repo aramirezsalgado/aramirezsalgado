@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Live calmly. The time will come when the flowers bloom by themselves._
+_True life is lived when tiny changes occur._
 
-**— Zen Proverb**
+**— Leo Tolstoy**
 <!--QUOTE_END-->
 
 ---
