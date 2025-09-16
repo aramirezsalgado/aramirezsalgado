@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_True life is lived when tiny changes occur._
+_Winning isn't always championships._
 
-**— Leo Tolstoy**
+**— Michael Jordan**
 <!--QUOTE_END-->
 
 ---
