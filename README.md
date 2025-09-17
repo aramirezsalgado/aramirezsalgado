@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Winning isn't always championships._
+_All wealth is the product of labor._
 
-**— Michael Jordan**
+**— John Locke**
 <!--QUOTE_END-->
 
 ---
