@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All wealth is the product of labor._
+_Coming together is a beginning, staying together is progress, and working together is success. _
 
-**— John Locke**
+**— Henry Ford**
 <!--QUOTE_END-->
 
 ---
