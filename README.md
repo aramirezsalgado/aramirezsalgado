@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Coming together is a beginning, staying together is progress, and working together is success. _
+_A tiger doesn't lose sleep over the opinion of sheep._
 
-**— Henry Ford**
+**— Shahir Zag**
 <!--QUOTE_END-->
 
 ---
