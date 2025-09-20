@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A tiger doesn't lose sleep over the opinion of sheep._
+_Be willing to be a beginner every single morning._
 
-**— Shahir Zag**
+**— Meister Eckhart**
 <!--QUOTE_END-->
 
 ---
