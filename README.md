@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Be willing to be a beginner every single morning._
+_I've always lived in the moment._
 
-**— Meister Eckhart**
+**— Yanni**
 <!--QUOTE_END-->
 
 ---
