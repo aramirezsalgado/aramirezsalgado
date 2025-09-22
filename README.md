@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I've always lived in the moment._
+_The only reason to be alive is to enjoy it._
 
-**— Yanni**
+**— Rita Mae Brown**
 <!--QUOTE_END-->
 
 ---
