@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The only reason to be alive is to enjoy it._
+_Love is the expression of one's values._
 
-**— Rita Mae Brown**
+**— Ayn Rand**
 <!--QUOTE_END-->
 
 ---
