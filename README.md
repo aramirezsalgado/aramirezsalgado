@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Love is the expression of one's values._
+_When everything seems to be going against you, remember that the airplane takes off against the wind, not with it._
 
-**— Ayn Rand**
+**— Henry Ford**
 <!--QUOTE_END-->
 
 ---
