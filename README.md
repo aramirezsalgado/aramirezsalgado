@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't explain your philosophy. Embody it._
+_Never give up work. Work gives you meaning and purpose and life is empty without it._
 
-**— Epictetus**
+**— Stephen Hawking**
 <!--QUOTE_END-->
 
 ---
