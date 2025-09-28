@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Every traveler has a home of his own, and he learns to appreciate it the more from his wandering._
+_You'll never find rainbows if you're looking down.  _
 
-**— Charles Dickens**
+**— Charlie Chaplin**
 <!--QUOTE_END-->
 
 ---
