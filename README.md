@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You'll never find rainbows if you're looking down.  _
+_You can tell more about a person by what he says about others than you can by what others say about him._
 
-**— Charlie Chaplin**
+**— Audrey Hepburn**
 <!--QUOTE_END-->
 
 ---
