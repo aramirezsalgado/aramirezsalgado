@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can tell more about a person by what he says about others than you can by what others say about him._
+_To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking._
 
-**— Audrey Hepburn**
+**— Johann Wolfgang von Goethe**
 <!--QUOTE_END-->
 
 ---
