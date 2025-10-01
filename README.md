@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking._
+_Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do._
 
-**— Johann Wolfgang von Goethe**
+**— Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
