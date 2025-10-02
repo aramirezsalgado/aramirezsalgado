@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do._
+_Faithless is he that says farewell when the road darkens._
 
-**— Nelson Mandela**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
