@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Faithless is he that says farewell when the road darkens._
+_We turn not older with years but newer every day._
 
-**— J.R.R. Tolkien**
+**— Emily Dickinson**
 <!--QUOTE_END-->
 
 ---
