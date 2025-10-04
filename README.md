@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_We turn not older with years but newer every day._
+_If you don't program yourself, life will program you._
 
-**— Emily Dickinson**
+**— Les Brown**
 <!--QUOTE_END-->
 
 ---
