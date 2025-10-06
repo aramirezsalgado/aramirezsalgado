@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success comes to those who become success conscious._
+_We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies._
 
-**— Napoleon Hill**
+**— Emily Dickinson**
 <!--QUOTE_END-->
 
 ---
