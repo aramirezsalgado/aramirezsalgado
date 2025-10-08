@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Setting goals is the first step in turning the invisible into the visible._
+_Nothing can survive without food. Everything we consume acts either to heal us or to poison us._
 
-**— Tony Robbins**
+**— Thich Nhat Hanh**
 <!--QUOTE_END-->
 
 ---
