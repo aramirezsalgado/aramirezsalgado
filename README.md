@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The few who do are the envy of the many who only watch._
+_Do not think you will necessarily be aware of your own enlightenment._
 
-**— Jim Rohn**
+**— Dogen**
 <!--QUOTE_END-->
 
 ---
