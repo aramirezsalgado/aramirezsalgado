@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do not think you will necessarily be aware of your own enlightenment._
+_By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul._
 
-**— Dogen**
+**— Marcus Aurelius**
 <!--QUOTE_END-->
 
 ---
