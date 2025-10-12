@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul._
+_It is only depth of character that determines the profundity with which we face life._
 
-**— Marcus Aurelius**
+**— Ming-Dao Deng**
 <!--QUOTE_END-->
 
 ---
