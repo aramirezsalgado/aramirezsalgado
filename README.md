@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is only depth of character that determines the profundity with which we face life._
+_Happiness must be grown in one's own garden._
 
-**— Ming-Dao Deng**
+**— Mary Engelbreit**
 <!--QUOTE_END-->
 
 ---
