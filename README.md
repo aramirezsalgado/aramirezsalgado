@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Consider the rights of others before your own feelings, and the feelings of others before your own rights._
+_Try not to become a man of success, but rather try to become a man of value._
 
-**— John Wooden**
+**— Albert Einstein**
 <!--QUOTE_END-->
 
 ---
