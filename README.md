@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Try not to become a man of success, but rather try to become a man of value._
+_One never does wrong by doing right._
 
-**— Albert Einstein**
+**— Norman Vincent Peale**
 <!--QUOTE_END-->
 
 ---
