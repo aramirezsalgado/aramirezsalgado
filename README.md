@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_One never does wrong by doing right._
+_Fashion fades, only style remains the same._
 
-**— Norman Vincent Peale**
+**— Coco Chanel**
 <!--QUOTE_END-->
 
 ---
