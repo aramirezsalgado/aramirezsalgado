@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Fashion fades, only style remains the same._
+_The mind can calculate, but the spirit yearns, and the heart wants what the heart wants._
 
-**— Coco Chanel**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
