@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The mind can calculate, but the spirit yearns, and the heart wants what the heart wants._
+_Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all._
 
-**— Stephen King**
+**— Dale Carnegie**
 <!--QUOTE_END-->
 
 ---
