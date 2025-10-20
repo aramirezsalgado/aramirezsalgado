@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all._
+_Success is a consequence and must not be a goal._
 
-**— Dale Carnegie**
+**— Gustave Flaubert**
 <!--QUOTE_END-->
 
 ---
