@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is a consequence and must not be a goal._
+_The world doesn't owe you anything. It was here first._
 
-**— Gustave Flaubert**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
