@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The world doesn't owe you anything. It was here first._
+_No one is useless in this world who lightens the burdens of another._
 
-**— Mark Twain**
+**— Charles Dickens**
 <!--QUOTE_END-->
 
 ---
