@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No one is useless in this world who lightens the burdens of another._
+_Life is love and love is life._
 
-**— Charles Dickens**
+**— Elvis Presley**
 <!--QUOTE_END-->
 
 ---
