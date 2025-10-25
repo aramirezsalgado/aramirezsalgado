@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Being a good example is the best form of service._
+_He who wishes to be obeyed must know how to command._
 
-**— Sathya Sai Baba**
+**— Niccolo Machiavelli**
 <!--QUOTE_END-->
 
 ---
