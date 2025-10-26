@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_He who wishes to be obeyed must know how to command._
+_A mistake is only an error, it becomes a mistake when you fail to correct it._
 
-**— Niccolo Machiavelli**
+**— John Lennon**
 <!--QUOTE_END-->
 
 ---
