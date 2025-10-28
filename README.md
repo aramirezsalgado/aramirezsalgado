@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You are the average of the five people you spend most time with._
+_If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present._
 
-**— Jim Rohn**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
