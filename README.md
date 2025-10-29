@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present._
+_When you're at the end of your rope, tie a knot and hold on._
 
-**— Roy T. Bennett**
+**— Theodore Roosevelt**
 <!--QUOTE_END-->
 
 ---
