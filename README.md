@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you're at the end of your rope, tie a knot and hold on._
+_Rudeness is the weak man's imitation of strength._
 
-**— Theodore Roosevelt**
+**— Eric Hoffer**
 <!--QUOTE_END-->
 
 ---
