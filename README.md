@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Rudeness is the weak man's imitation of strength._
+_The truth is simple. If it was complicated, everyone would understand it._
 
-**— Eric Hoffer**
+**— Walt Whitman**
 <!--QUOTE_END-->
 
 ---
