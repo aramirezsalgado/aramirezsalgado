@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The truth is simple. If it was complicated, everyone would understand it._
+_Every artist dips his brush in his own soul, and paints his own nature into his pictures._
 
-**— Walt Whitman**
+**— Henry Ward Beecher**
 <!--QUOTE_END-->
 
 ---
