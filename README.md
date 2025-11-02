@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Every artist dips his brush in his own soul, and paints his own nature into his pictures._
+_An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold._
 
-**— Henry Ward Beecher**
+**— Chinese Proverb**
 <!--QUOTE_END-->
 
 ---
