@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do what you can, with what you have, where you are._
+_Give so much away people insist on paying you._
 
-**— Theodore Roosevelt**
+**— Jack Butcher**
 <!--QUOTE_END-->
 
 ---
