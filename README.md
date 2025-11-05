@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Give so much away people insist on paying you._
+_You can suffer the pain of change or suffer remaining the way you are._
 
-**— Jack Butcher**
+**— Joyce Meyer**
 <!--QUOTE_END-->
 
 ---
