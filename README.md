@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can suffer the pain of change or suffer remaining the way you are._
+_A rational person can find peace by cultivating indifference to things outside of their control._
 
-**— Joyce Meyer**
+**— Naval Ravikant**
 <!--QUOTE_END-->
 
 ---
