@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A rational person can find peace by cultivating indifference to things outside of their control._
+_Keep smiling, because life is a beautiful thing and there's so much to smile about._
 
-**— Naval Ravikant**
+**— Marilyn Monroe**
 <!--QUOTE_END-->
 
 ---
