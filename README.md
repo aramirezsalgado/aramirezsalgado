@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Keep smiling, because life is a beautiful thing and there's so much to smile about._
+_Anyone who has ever made anything of importance was disciplined._
 
-**— Marilyn Monroe**
+**— Andrew Hendrixson**
 <!--QUOTE_END-->
 
 ---
