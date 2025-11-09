@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Anyone who has ever made anything of importance was disciplined._
+_Study logic and math, because once you've mastered them, you won't fear any book._
 
-**— Andrew Hendrixson**
+**— Naval Ravikant**
 <!--QUOTE_END-->
 
 ---
