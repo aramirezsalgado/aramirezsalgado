@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Study logic and math, because once you've mastered them, you won't fear any book._
+_Confidence is like a dragon where, for every head cut off, two more heads grow back._
 
-**— Naval Ravikant**
+**— Criss Jami**
 <!--QUOTE_END-->
 
 ---
