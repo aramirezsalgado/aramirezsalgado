@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Confidence is like a dragon where, for every head cut off, two more heads grow back._
+_Faithless is he that says farewell when the road darkens._
 
-**— Criss Jami**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
