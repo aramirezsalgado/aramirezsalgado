@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The one who praises you is a thief. The one who criticizes you is your true friend._
+_Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment._
 
-**— Seungsahn**
+**— Celestine Chua**
 <!--QUOTE_END-->
 
 ---
