@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment._
+_If you've never eaten while crying you don t know what life tastes like._
 
-**— Celestine Chua**
+**— Johann Wolfgang von Goethe**
 <!--QUOTE_END-->
 
 ---
