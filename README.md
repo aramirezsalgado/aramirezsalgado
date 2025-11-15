@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you've never eaten while crying you don t know what life tastes like._
+_That some achieve great success is proof to all that others can achieve it as well._
 
-**— Johann Wolfgang von Goethe**
+**— Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
