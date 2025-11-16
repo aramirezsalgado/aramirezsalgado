@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_That some achieve great success is proof to all that others can achieve it as well._
+_The most important things are the hardest to say._
 
-**— Abraham Lincoln**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
