@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The most important things are the hardest to say._
+_She who loves roses must be patient and not cry out when she is pierced by thorns._
 
-**— Stephen King**
+**— Kenji Miyazawa**
 <!--QUOTE_END-->
 
 ---
