@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_She who loves roses must be patient and not cry out when she is pierced by thorns._
+_Good luck is opportunity meeting preparedness._
 
-**— Kenji Miyazawa**
+**— Deepak Chopra**
 <!--QUOTE_END-->
 
 ---
