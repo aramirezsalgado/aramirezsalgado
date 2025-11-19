@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Good luck is opportunity meeting preparedness._
+_Common sense is not so common. _
 
-**— Deepak Chopra**
+**— Voltaire**
 <!--QUOTE_END-->
 
 ---
