@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Common sense is not so common. _
+_The essence of the Way is detachment._
 
-**— Voltaire**
+**— Bodhidharma**
 <!--QUOTE_END-->
 
 ---
