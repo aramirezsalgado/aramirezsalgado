@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The essence of the Way is detachment._
+_Remember, hope is a good thing, maybe the best of things._
 
-**— Bodhidharma**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
