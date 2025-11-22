@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Remember, hope is a good thing, maybe the best of things._
+_Genius is one percent inspiration and ninety-nine percent perspiration._
 
-**— Stephen King**
+**— Thomas Edison**
 <!--QUOTE_END-->
 
 ---
