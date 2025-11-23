@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Genius is one percent inspiration and ninety-nine percent perspiration._
+_Whatever you think the world is withholding from you, you are withholding from the world._
 
-**— Thomas Edison**
+**— Eckhart Tolle**
 <!--QUOTE_END-->
 
 ---
