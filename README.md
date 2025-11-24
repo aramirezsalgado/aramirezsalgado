@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Whatever you think the world is withholding from you, you are withholding from the world._
+_The road to success is always under construction._
 
-**— Eckhart Tolle**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
