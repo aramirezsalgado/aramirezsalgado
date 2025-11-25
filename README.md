@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The road to success is always under construction._
+_The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination._
 
-**— Steve Harvey**
+**— Elbert Hubbard**
 <!--QUOTE_END-->
 
 ---
