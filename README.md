@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination._
+_It is what we make out of what we have, not what we are given, that separates one person from another._
 
-**— Elbert Hubbard**
+**— Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
