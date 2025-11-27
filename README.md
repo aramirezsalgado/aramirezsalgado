@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is what we make out of what we have, not what we are given, that separates one person from another._
+_Thoughts become things. If you see it in your mind, you will hold it in your hand._
 
-**— Nelson Mandela**
+**— Bob Proctor**
 <!--QUOTE_END-->
 
 ---
