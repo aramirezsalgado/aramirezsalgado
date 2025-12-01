@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience._
+_Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has._
 
-**— Denis Waitley**
+**— Margaret Mead**
 <!--QUOTE_END-->
 
 ---
