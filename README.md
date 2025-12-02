@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has._
+_A rational person can find peace by cultivating indifference to things outside of their control._
 
-**— Margaret Mead**
+**— Naval Ravikant**
 <!--QUOTE_END-->
 
 ---
