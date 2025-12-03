@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A rational person can find peace by cultivating indifference to things outside of their control._
+_I don't ever give up. I'd have to be dead or completely incapacitated._
 
-**— Naval Ravikant**
+**— Elon Musk**
 <!--QUOTE_END-->
 
 ---
