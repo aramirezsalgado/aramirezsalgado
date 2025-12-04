@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I don't ever give up. I'd have to be dead or completely incapacitated._
+_Always be a first rate version of yourself and not a second rate version of someone else._
 
-**— Elon Musk**
+**— Judy Garland**
 <!--QUOTE_END-->
 
 ---
