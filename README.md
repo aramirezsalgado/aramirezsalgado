@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Always be a first rate version of yourself and not a second rate version of someone else._
+_Life is like a beautiful melody, only the lyrics are messed up._
 
-**— Judy Garland**
+**— Hans Christian Andersen**
 <!--QUOTE_END-->
 
 ---
