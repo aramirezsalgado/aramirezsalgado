@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is like a beautiful melody, only the lyrics are messed up._
+_There will always be suffering. But we must not suffer over the suffering._
 
-**— Hans Christian Andersen**
+**— Alan Watts**
 <!--QUOTE_END-->
 
 ---
