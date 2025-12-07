@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There will always be suffering. But we must not suffer over the suffering._
+_Your chances of success in any undertaking can always be measured by your belief in yourself._
 
-**— Alan Watts**
+**— Robert Collier**
 <!--QUOTE_END-->
 
 ---
