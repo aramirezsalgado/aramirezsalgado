@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your chances of success in any undertaking can always be measured by your belief in yourself._
+_There is no excuse for not trying._
 
-**— Robert Collier**
+**— Barack Obama**
 <!--QUOTE_END-->
 
 ---
