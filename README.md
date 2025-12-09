@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is no excuse for not trying._
+_Shoot for the moon, because even if you miss, you'll land among the stars._
 
-**— Barack Obama**
+**— Les Brown**
 <!--QUOTE_END-->
 
 ---
