@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Shoot for the moon, because even if you miss, you'll land among the stars._
+_Man's character is his fate._
 
-**— Les Brown**
+**— Heraclitus**
 <!--QUOTE_END-->
 
 ---
