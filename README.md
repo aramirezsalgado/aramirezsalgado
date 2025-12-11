@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Man's character is his fate._
+_Don't try to be young. Just open your mind. Stay interested in stuff._
 
-**— Heraclitus**
+**— Betty White**
 <!--QUOTE_END-->
 
 ---
