@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't try to be young. Just open your mind. Stay interested in stuff._
+_Peaceful is the one who expects nothing._
 
-**— Betty White**
+**— Maxime Lagace**
 <!--QUOTE_END-->
 
 ---
