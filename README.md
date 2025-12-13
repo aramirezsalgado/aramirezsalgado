@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Peaceful is the one who expects nothing._
+_Everyone is a moon, and has a dark side which he never shows to anybody._
 
-**— Maxime Lagace**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
