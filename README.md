@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Everyone is a moon, and has a dark side which he never shows to anybody._
+_I don't ever give up. I'd have to be dead or completely incapacitated._
 
-**— Mark Twain**
+**— Elon Musk**
 <!--QUOTE_END-->
 
 ---
