@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I don't ever give up. I'd have to be dead or completely incapacitated._
+_If you're brave enough to say goodbye, life will reward you with a new hello._
 
-**— Elon Musk**
+**— Paulo Coelho**
 <!--QUOTE_END-->
 
 ---
