@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you're brave enough to say goodbye, life will reward you with a new hello._
+_Don't just sit there. Do something. The answers will follow._
 
-**— Paulo Coelho**
+**— Mark Manson**
 <!--QUOTE_END-->
 
 ---
