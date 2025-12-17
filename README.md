@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't just sit there. Do something. The answers will follow._
+_There are no secrets to success. It is the result of preparation, hard work, learning from failure._
 
-**— Mark Manson**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
