@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There are no secrets to success. It is the result of preparation, hard work, learning from failure._
+_Live your life as an exclamation rather than an explanation._
 
-**— Colin Powell**
+**— Isaac Newton**
 <!--QUOTE_END-->
 
 ---
