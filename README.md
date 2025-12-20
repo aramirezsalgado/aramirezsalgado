@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight._
+_The ability to observe without evaluating is the highest form of intelligence._
 
-**— Benjamin Franklin**
+**— Jiddu Krishnamurti**
 <!--QUOTE_END-->
 
 ---
