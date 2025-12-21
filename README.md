@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The ability to observe without evaluating is the highest form of intelligence._
+_Dance first. Think later. It's the natural order._
 
-**— Jiddu Krishnamurti**
+**— Samuel Beckett**
 <!--QUOTE_END-->
 
 ---
