@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Words without actions are the assassins of idealism._
+_Lost Time is never found again._
 
-**— Herbert Hoover**
+**— Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
