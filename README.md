@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Lost Time is never found again._
+_Seek not the good in external things;seek it in yourselves._
 
-**— Benjamin Franklin**
+**— Epictetus**
 <!--QUOTE_END-->
 
 ---
