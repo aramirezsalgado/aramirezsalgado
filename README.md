@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Seek not the good in external things;seek it in yourselves._
+_Human happiness and moral duty are inseparably connected. _
 
-**— Epictetus**
+**— George Washington**
 <!--QUOTE_END-->
 
 ---
