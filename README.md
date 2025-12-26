@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Human happiness and moral duty are inseparably connected. _
+_A man who dares to waste one hour of time has not discovered the value of life._
 
-**— George Washington**
+**— Charles Darwin**
 <!--QUOTE_END-->
 
 ---
