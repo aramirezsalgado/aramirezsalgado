@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A man who dares to waste one hour of time has not discovered the value of life._
+_It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on._
 
-**— Charles Darwin**
+**— Steve Maraboli**
 <!--QUOTE_END-->
 
 ---
