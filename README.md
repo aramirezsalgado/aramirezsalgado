@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Would you rather live your life according to the approval of others or aligned with your truth and your dreams?_
+_Freedom from desire leads to inner peace._
 
-**— Robin Sharma**
+**— Lao Tzu**
 <!--QUOTE_END-->
 
 ---
