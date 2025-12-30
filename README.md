@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Freedom from desire leads to inner peace._
+_Develop success from failures. Discouragement and failure are two of the surest stepping stones to success._
 
-**— Lao Tzu**
+**— Dale Carnegie**
 <!--QUOTE_END-->
 
 ---
