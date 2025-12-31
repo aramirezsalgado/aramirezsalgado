@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Develop success from failures. Discouragement and failure are two of the surest stepping stones to success._
+_Still your waters._
 
-**— Dale Carnegie**
+**— Josh Waitzkin**
 <!--QUOTE_END-->
 
 ---
