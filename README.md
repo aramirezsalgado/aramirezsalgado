@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Still your waters._
+_Whatever your heart clings to and confides in, that is really your God._
 
-**— Josh Waitzkin**
+**— Martin Luther**
 <!--QUOTE_END-->
 
 ---
