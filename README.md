@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Whatever your heart clings to and confides in, that is really your God._
+_The truth is not for all men, but for those who seek it._
 
-**— Martin Luther**
+**— Ayn Rand**
 <!--QUOTE_END-->
 
 ---
