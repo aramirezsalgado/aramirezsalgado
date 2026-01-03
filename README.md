@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The truth is not for all men, but for those who seek it._
+_The farther backward you can look, the farther forward you are likely to see._
 
-**— Ayn Rand**
+**— Winston Churchill**
 <!--QUOTE_END-->
 
 ---
