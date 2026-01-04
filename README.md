@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The farther backward you can look, the farther forward you are likely to see._
+_A moving door hinge never corrodes. Flowing water never grows stagnant._
 
-**— Winston Churchill**
+**— Ming-Dao Deng**
 <!--QUOTE_END-->
 
 ---
