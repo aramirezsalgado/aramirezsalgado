@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A moving door hinge never corrodes. Flowing water never grows stagnant._
+_When you reach the top of the mountain, keep climbing. _
 
-**— Ming-Dao Deng**
+**— Zen Proverb**
 <!--QUOTE_END-->
 
 ---
