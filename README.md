@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you reach the top of the mountain, keep climbing. _
+_Don't hate the player. Change the game._
 
-**— Zen Proverb**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
