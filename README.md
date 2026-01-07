@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't hate the player. Change the game._
+_Change will not come if we wait for some other person, or if we wait for some other time._
 
-**— Steve Harvey**
+**— Barack Obama**
 <!--QUOTE_END-->
 
 ---
