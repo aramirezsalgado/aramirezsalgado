@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Change will not come if we wait for some other person, or if we wait for some other time._
+_How you think is as important as as what you think._
 
-**— Barack Obama**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
