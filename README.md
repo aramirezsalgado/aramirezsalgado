@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Only by acceptance of the past, can you alter it._
+_Formal education will make you a living, self-education will make you a fortune._
 
-**— T.S. Eliot**
+**— Jim Rohn**
 <!--QUOTE_END-->
 
 ---
