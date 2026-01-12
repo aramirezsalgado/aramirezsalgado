@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Formal education will make you a living, self-education will make you a fortune._
+_Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff._
 
-**— Jim Rohn**
+**— Kamal Ravikant**
 <!--QUOTE_END-->
 
 ---
