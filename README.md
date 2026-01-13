@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff._
+_Great things are not done by impulse, but by a series of small things brought together._
 
-**— Kamal Ravikant**
+**— Vincent van Gogh**
 <!--QUOTE_END-->
 
 ---
