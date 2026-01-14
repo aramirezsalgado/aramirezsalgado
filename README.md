@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Great things are not done by impulse, but by a series of small things brought together._
+_Darkness is the absence of light._
 
-**— Vincent van Gogh**
+**— Kamal Ravikant**
 <!--QUOTE_END-->
 
 ---
