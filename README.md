@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Darkness is the absence of light._
+_There is no way to happiness - happiness is the way._
 
-**— Kamal Ravikant**
+**— Thich Nhat Hanh**
 <!--QUOTE_END-->
 
 ---
