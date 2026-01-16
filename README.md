@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is no way to happiness - happiness is the way._
+_All problems are illusions of the mind._
 
-**— Thich Nhat Hanh**
+**— Eckhart Tolle**
 <!--QUOTE_END-->
 
 ---
