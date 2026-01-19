@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your best life will not be found in comfort. It will be found in fighting for what you believe in._
+_Trust your instincts: my first reaction is almost invariably the right one.  _
 
-**— Maxime Lagace**
+**— Estee Lauder**
 <!--QUOTE_END-->
 
 ---
