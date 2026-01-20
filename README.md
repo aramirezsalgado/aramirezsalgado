@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Trust your instincts: my first reaction is almost invariably the right one.  _
+_Instead of worrying about what you cannot control, shift your energy to what you can create._
 
-**— Estee Lauder**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
