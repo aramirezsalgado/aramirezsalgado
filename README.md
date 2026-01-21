@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Instead of worrying about what you cannot control, shift your energy to what you can create._
+_Life may be full of pain but that's not an excuse to give up._
 
-**— Roy T. Bennett**
+**— Arnold Schwarzenegger**
 <!--QUOTE_END-->
 
 ---
