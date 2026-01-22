@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life may be full of pain but that's not an excuse to give up._
+_Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now._
 
-**— Arnold Schwarzenegger**
+**— Ralph Marston**
 <!--QUOTE_END-->
 
 ---
