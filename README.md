@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now._
+_Never close your lips to those whom you have already opened your heart._
 
-**— Ralph Marston**
+**— Charles Dickens**
 <!--QUOTE_END-->
 
 ---
