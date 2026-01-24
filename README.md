@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Never close your lips to those whom you have already opened your heart._
+_To bear trials with a calm mind robs misfortune of its strength and burden._
 
-**— Charles Dickens**
+**— Seneca**
 <!--QUOTE_END-->
 
 ---
