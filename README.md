@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To bear trials with a calm mind robs misfortune of its strength and burden._
+_Those who attain the middle Dominate the whole._
 
-**— Seneca**
+**— Ming-Dao Deng**
 <!--QUOTE_END-->
 
 ---
