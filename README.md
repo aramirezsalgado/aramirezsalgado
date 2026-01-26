@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Those who attain the middle Dominate the whole._
+_In the practice of tolerance, one's enemy is the best teacher._
 
-**— Ming-Dao Deng**
+**— Dalai Lama**
 <!--QUOTE_END-->
 
 ---
