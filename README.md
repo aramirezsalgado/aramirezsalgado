@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In the practice of tolerance, one's enemy is the best teacher._
+_Human behavior flows from three main sources: desire, emotion, and knowledge._
 
-**— Dalai Lama**
+**— Plato**
 <!--QUOTE_END-->
 
 ---
