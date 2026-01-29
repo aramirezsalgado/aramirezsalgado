@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_We need a backbone, not a wishbone._
+_Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win._
 
-**— Joyce Meyer**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
