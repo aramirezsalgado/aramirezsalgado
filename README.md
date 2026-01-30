@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win._
+_Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it._
 
-**— Stephen King**
+**— Gary Keller**
 <!--QUOTE_END-->
 
 ---
