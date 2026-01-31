@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it._
+_Facts are the enemy of truth. _
 
-**— Gary Keller**
+**— Miguel de Cervantes**
 <!--QUOTE_END-->
 
 ---
