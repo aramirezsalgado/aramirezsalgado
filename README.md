@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Facts are the enemy of truth. _
+_Short cuts make long delays._
 
-**— Miguel de Cervantes**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
