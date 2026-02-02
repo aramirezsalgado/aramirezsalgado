@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Short cuts make long delays._
+_Creativity is the greatest rebellion in existence._
 
-**— J.R.R. Tolkien**
+**— Osho**
 <!--QUOTE_END-->
 
 ---
