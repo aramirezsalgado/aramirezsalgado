@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Creativity is the greatest rebellion in existence._
+_To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh._
 
-**— Osho**
+**— Pema Chodron**
 <!--QUOTE_END-->
 
 ---
