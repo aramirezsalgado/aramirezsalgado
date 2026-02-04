@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh._
+_Turn your face to the sun, as flowers know how to do._
 
-**— Pema Chodron**
+**— Ming-Dao Deng**
 <!--QUOTE_END-->
 
 ---
