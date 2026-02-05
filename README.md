@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Turn your face to the sun, as flowers know how to do._
+_When you know what you want, and want it bad enough, you will find a way to get it._
 
-**— Ming-Dao Deng**
+**— Jim Rohn**
 <!--QUOTE_END-->
 
 ---
