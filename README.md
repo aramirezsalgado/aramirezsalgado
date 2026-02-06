@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you know what you want, and want it bad enough, you will find a way to get it._
+_If it entertains you now but will bore you someday, it's a distraction. Keep looking._
 
-**— Jim Rohn**
+**— Naval Ravikant**
 <!--QUOTE_END-->
 
 ---
