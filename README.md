@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If it entertains you now but will bore you someday, it's a distraction. Keep looking._
+_The only way to make sense out of change is to plunge into it, move with it, and join the dance._
 
-**— Naval Ravikant**
+**— Alan Watts**
 <!--QUOTE_END-->
 
 ---
