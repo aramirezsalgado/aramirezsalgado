@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The only way to make sense out of change is to plunge into it, move with it, and join the dance._
+_Care about what other people think and you will always be their prisoner._
 
-**— Alan Watts**
+**— Lao Tzu**
 <!--QUOTE_END-->
 
 ---
