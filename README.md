@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Care about what other people think and you will always be their prisoner._
+_To be happy we need something to solve. Happiness is therefore a form of action._
 
-**— Lao Tzu**
+**— Mark Manson**
 <!--QUOTE_END-->
 
 ---
