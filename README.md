@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To be happy we need something to solve. Happiness is therefore a form of action._
+_Our attitude toward life determines life's attitude towards us._
 
-**— Mark Manson**
+**— Earl Nightingale**
 <!--QUOTE_END-->
 
 ---
