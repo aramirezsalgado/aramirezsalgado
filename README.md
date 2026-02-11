@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Our attitude toward life determines life's attitude towards us._
+_All power is from within and therefore under our control._
 
-**— Earl Nightingale**
+**— Robert Collier**
 <!--QUOTE_END-->
 
 ---
