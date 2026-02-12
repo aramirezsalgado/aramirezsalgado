@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All power is from within and therefore under our control._
+_If you are unable to find the truth right where you are, where else do you expect to find it?_
 
-**— Robert Collier**
+**— Dogen**
 <!--QUOTE_END-->
 
 ---
