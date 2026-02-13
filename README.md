@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you are unable to find the truth right where you are, where else do you expect to find it?_
+_The primary cause of unhappiness is never the situation but your thoughts about it._
 
-**— Dogen**
+**— Eckhart Tolle**
 <!--QUOTE_END-->
 
 ---
