@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The primary cause of unhappiness is never the situation but your thoughts about it._
+_A tiny change today brings a dramatically different tomorrow._
 
-**— Eckhart Tolle**
+**— Richard Bach**
 <!--QUOTE_END-->
 
 ---
