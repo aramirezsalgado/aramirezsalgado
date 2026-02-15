@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A tiny change today brings a dramatically different tomorrow._
+_Just get out and do it. You will be very, very glad that you did._
 
-**— Richard Bach**
+**— Christopher McCandless**
 <!--QUOTE_END-->
 
 ---
