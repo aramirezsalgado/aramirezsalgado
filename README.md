@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Just get out and do it. You will be very, very glad that you did._
+_The wise man reads both books and life itself._
 
-**— Christopher McCandless**
+**— Lin Yutang**
 <!--QUOTE_END-->
 
 ---
