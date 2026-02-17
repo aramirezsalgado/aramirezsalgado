@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The wise man reads both books and life itself._
+_You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being._
 
-**— Lin Yutang**
+**— Anita Krizzan**
 <!--QUOTE_END-->
 
 ---
