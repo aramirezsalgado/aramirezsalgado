@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being._
+_Excellence is not an exception, it is a prevailing attitude._
 
-**— Anita Krizzan**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
