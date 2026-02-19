@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Excellence is not an exception, it is a prevailing attitude._
+_You are always your own best guru, your own best teacher, the answers are always inside you._
 
-**— Colin Powell**
+**— Sathya Sai Baba**
 <!--QUOTE_END-->
 
 ---
