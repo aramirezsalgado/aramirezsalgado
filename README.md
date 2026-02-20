@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You are always your own best guru, your own best teacher, the answers are always inside you._
+_Confidence is what you have before you understand the problem._
 
-**— Sathya Sai Baba**
+**— Woody Allen**
 <!--QUOTE_END-->
 
 ---
