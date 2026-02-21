@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Confidence is what you have before you understand the problem._
+_Your only limitations are those you set up in your mind or permit others to set up for you._
 
-**— Woody Allen**
+**— Og Mandino**
 <!--QUOTE_END-->
 
 ---
