@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your only limitations are those you set up in your mind or permit others to set up for you._
+_Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus._
 
-**— Og Mandino**
+**— Alexander Graham Bell**
 <!--QUOTE_END-->
 
 ---
