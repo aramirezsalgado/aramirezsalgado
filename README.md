@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus._
+_The quality of your life is determined by the quality of your thoughts._
 
-**— Alexander Graham Bell**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
