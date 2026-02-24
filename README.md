@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The quality of your life is determined by the quality of your thoughts._
+_The more perfect a person is on the outside, the more demons they have on the inside._
 
-**— Unknown**
+**— Sigmund Freud**
 <!--QUOTE_END-->
 
 ---
