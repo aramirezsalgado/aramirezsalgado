@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The more perfect a person is on the outside, the more demons they have on the inside._
+_A man should do his job so well that the living, the dead, and the unborn could do it no better._
 
-**— Sigmund Freud**
+**— Martin Luther King, Jr.**
 <!--QUOTE_END-->
 
 ---
