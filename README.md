@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A man should do his job so well that the living, the dead, and the unborn could do it no better._
+_The biggest challenge after success is shutting up about it._
 
-**— Martin Luther King, Jr.**
+**— Criss Jami**
 <!--QUOTE_END-->
 
 ---
