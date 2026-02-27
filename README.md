@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The biggest challenge after success is shutting up about it._
+_Rivers know this: there is no hurry. We shall get there some day._
 
-**— Criss Jami**
+**— A.A. Milne**
 <!--QUOTE_END-->
 
 ---
