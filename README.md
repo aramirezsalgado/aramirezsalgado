@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Rivers know this: there is no hurry. We shall get there some day._
+_You have as much laughter as you have faith._
 
-**— A.A. Milne**
+**— Martin Luther**
 <!--QUOTE_END-->
 
 ---
