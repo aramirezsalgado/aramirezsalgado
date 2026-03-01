@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You have as much laughter as you have faith._
+_What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people._
 
-**— Martin Luther**
+**— Jack Butcher**
 <!--QUOTE_END-->
 
 ---
