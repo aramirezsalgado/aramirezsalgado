@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Where violence reigns, reason is weak._
+_To lose your temper is only useful once a year._
 
-**— Nicolas Chamfort**
+**— Colin R. Davis**
 <!--QUOTE_END-->
 
 ---
