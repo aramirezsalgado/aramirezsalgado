@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To lose your temper is only useful once a year._
+_The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves._
 
-**— Colin R. Davis**
+**— Brian Tracy**
 <!--QUOTE_END-->
 
 ---
