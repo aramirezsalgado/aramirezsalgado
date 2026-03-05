@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves._
+_Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some._
 
-**— Brian Tracy**
+**— Charles Dickens**
 <!--QUOTE_END-->
 
 ---
