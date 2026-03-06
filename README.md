@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some._
+_Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything._
 
-**— Charles Dickens**
+**— Sydney Smith**
 <!--QUOTE_END-->
 
 ---
