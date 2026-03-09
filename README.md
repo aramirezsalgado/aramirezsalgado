@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is trying things to see if they work._
+_Be happy in the moment, that's enough. Each moment is all we need, not more._
 
-**— Ray Bradbury**
+**— Mother Teresa**
 <!--QUOTE_END-->
 
 ---
