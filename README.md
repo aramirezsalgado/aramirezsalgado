@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Be happy in the moment, that's enough. Each moment is all we need, not more._
+_Every drop in the ocean counts. _
 
-**— Mother Teresa**
+**— Yoko Ono**
 <!--QUOTE_END-->
 
 ---
