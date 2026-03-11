@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Every drop in the ocean counts. _
+_The most effective way to do it, is to do it._
 
-**— Yoko Ono**
+**— Amelia Earhart**
 <!--QUOTE_END-->
 
 ---
