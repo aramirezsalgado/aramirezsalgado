@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The most effective way to do it, is to do it._
+_I never dwell on what happened. You can't change it. Move forward._
 
-**— Amelia Earhart**
+**— Joan Rivers**
 <!--QUOTE_END-->
 
 ---
