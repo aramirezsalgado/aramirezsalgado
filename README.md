@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I never dwell on what happened. You can't change it. Move forward._
+_Most of the evil in this world is done by people with good intentions._
 
-**— Joan Rivers**
+**— T.S. Eliot**
 <!--QUOTE_END-->
 
 ---
