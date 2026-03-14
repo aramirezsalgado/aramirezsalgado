@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Most of the evil in this world is done by people with good intentions._
+_Character is doing what you don't want to do but know you should do._
 
-**— T.S. Eliot**
+**— Joyce Meyer**
 <!--QUOTE_END-->
 
 ---
