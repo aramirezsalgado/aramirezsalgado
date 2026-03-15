@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Character is doing what you don't want to do but know you should do._
+_Knowing your own darkness is the best method for dealing with the darknesses of other people._
 
-**— Joyce Meyer**
+**— Carl Jung**
 <!--QUOTE_END-->
 
 ---
