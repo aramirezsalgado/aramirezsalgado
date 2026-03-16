@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Knowing your own darkness is the best method for dealing with the darknesses of other people._
+_Success is getting what you want, happiness is wanting what you get._
 
-**— Carl Jung**
+**— W.P. Kinsella**
 <!--QUOTE_END-->
 
 ---
