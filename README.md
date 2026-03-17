@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is getting what you want, happiness is wanting what you get._
+_Question everything. Learn something. Answer nothing._
 
-**— W.P. Kinsella**
+**— Euripides**
 <!--QUOTE_END-->
 
 ---
