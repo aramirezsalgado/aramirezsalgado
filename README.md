@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Where your talents and the needs of the world cross, there lies your vocation._
+_Those who bring sunshine into the lives of others cannot keep it from themselves._
 
-**— Aristotle**
+**— James Matthew Barrie**
 <!--QUOTE_END-->
 
 ---
