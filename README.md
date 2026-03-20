@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Those who bring sunshine into the lives of others cannot keep it from themselves._
+_Success is within the reach of just about everyone._
 
-**— James Matthew Barrie**
+**— Lolly Daskal**
 <!--QUOTE_END-->
 
 ---
