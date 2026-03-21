@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is within the reach of just about everyone._
+_Doubt is an uncomfortable condition, but certainty is a ridiculous one._
 
-**— Lolly Daskal**
+**— Voltaire**
 <!--QUOTE_END-->
 
 ---
