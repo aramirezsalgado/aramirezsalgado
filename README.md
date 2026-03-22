@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Doubt is an uncomfortable condition, but certainty is a ridiculous one._
+_Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge._
 
-**— Voltaire**
+**— Eckhart Tolle**
 <!--QUOTE_END-->
 
 ---
