@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The past has no power over the present moment. _
+_It is startling to realize how much unbelief is necessary to make belief possible._
 
-**— Eckhart Tolle**
+**— Eric Hoffer**
 <!--QUOTE_END-->
 
 ---
