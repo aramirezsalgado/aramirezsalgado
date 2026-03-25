@@ -6,7 +6,7 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is startling to realize how much unbelief is necessary to make belief possible._
+_An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head._
 
 **— Eric Hoffer**
 <!--QUOTE_END-->
