@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head._
+_By changing nothing, nothing changes._
 
-**— Eric Hoffer**
+**— Celestine Chua**
 <!--QUOTE_END-->
 
 ---
