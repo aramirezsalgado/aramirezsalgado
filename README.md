@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_By changing nothing, nothing changes._
+_Live in the sunshine, swim the sea, drink the wild air._
 
-**— Celestine Chua**
+**— Ralph Waldo Emerson**
 <!--QUOTE_END-->
 
 ---
