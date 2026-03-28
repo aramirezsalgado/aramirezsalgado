@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Live in the sunshine, swim the sea, drink the wild air._
+_It is in your moments of decision that your destiny is shaped._
 
-**— Ralph Waldo Emerson**
+**— Tony Robbins**
 <!--QUOTE_END-->
 
 ---
