@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is in your moments of decision that your destiny is shaped._
+_You cannot find peace avoiding life._
 
-**— Tony Robbins**
+**— Virginia Woolf**
 <!--QUOTE_END-->
 
 ---
