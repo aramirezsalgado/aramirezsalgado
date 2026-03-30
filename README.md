@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You cannot find peace avoiding life._
+_Perpetual optimism is a force multiplier._
 
-**— Virginia Woolf**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
