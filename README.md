@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Perpetual optimism is a force multiplier._
+_In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result._
 
-**— Colin Powell**
+**— James Allen**
 <!--QUOTE_END-->
 
 ---
