@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result._
+_For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter._
 
-**— James Allen**
+**— Celestine Chua**
 <!--QUOTE_END-->
 
 ---
