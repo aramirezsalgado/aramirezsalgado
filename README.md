@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter._
+_Remember that the best relationship is one in which your love for each other exceeds your need for each other._
 
-**— Celestine Chua**
+**— Dalai Lama**
 <!--QUOTE_END-->
 
 ---
