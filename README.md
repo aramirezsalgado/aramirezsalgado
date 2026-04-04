@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths._
+_There are two things a person should never be angry at, what they can help, and what they cannot._
 
-**— Charles Spurgeon**
+**— Plato**
 <!--QUOTE_END-->
 
 ---
