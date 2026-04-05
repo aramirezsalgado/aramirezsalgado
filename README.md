@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There are two things a person should never be angry at, what they can help, and what they cannot._
+_When one door closes another door opens. _
 
-**— Plato**
+**— Alexander Graham Bell**
 <!--QUOTE_END-->
 
 ---
