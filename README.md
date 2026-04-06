@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When one door closes another door opens. _
+_Failure is the highway to success._
 
-**— Alexander Graham Bell**
+**— Og Mandino**
 <!--QUOTE_END-->
 
 ---
