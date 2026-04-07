@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Failure is the highway to success._
+_A leader leads by example, not by force._
 
-**— Og Mandino**
+**— Sun Tzu**
 <!--QUOTE_END-->
 
 ---
