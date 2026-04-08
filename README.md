@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A leader leads by example, not by force._
+_Quiet people have the loudest minds._
 
-**— Sun Tzu**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
