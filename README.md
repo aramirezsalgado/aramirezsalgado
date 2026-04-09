@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Quiet people have the loudest minds._
+_Peace is letting it be. Letting life flow, letting emotions flow through you._
 
-**— Stephen King**
+**— Kamal Ravikant**
 <!--QUOTE_END-->
 
 ---
