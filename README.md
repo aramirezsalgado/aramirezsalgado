@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Peace is letting it be. Letting life flow, letting emotions flow through you._
+_You can put lipstick on a pig. It's still a pig._
 
-**— Kamal Ravikant**
+**— Barack Obama**
 <!--QUOTE_END-->
 
 ---
