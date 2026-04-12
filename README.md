@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can put lipstick on a pig. It's still a pig._
+_Constantly think about how you could be doing things better._
 
-**— Barack Obama**
+**— Elon Musk**
 <!--QUOTE_END-->
 
 ---
