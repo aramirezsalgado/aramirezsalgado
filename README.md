@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Constantly think about how you could be doing things better._
+_Wake up and smile! Wake up and be grateful!_
 
-**— Elon Musk**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
