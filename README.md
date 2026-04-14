@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Wake up and smile! Wake up and be grateful!_
+_If the grass is greener on the other side, maybe that's because you're not taking good care of your grass._
 
-**— Steve Harvey**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
