@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't let them drag you down by rumors. Just go with what you believe in._
+_A life without a cause is a life without effect._
 
-**— Michael Jordan**
+**— Paulo Coelho**
 <!--QUOTE_END-->
 
 ---
