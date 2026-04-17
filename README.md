@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A life without a cause is a life without effect._
+_Don't be afraid that you do not know something. Be afraid of not learning about it._
 
-**— Paulo Coelho**
+**— Zen Proverb**
 <!--QUOTE_END-->
 
 ---
