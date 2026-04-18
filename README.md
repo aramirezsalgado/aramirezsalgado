@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't be afraid that you do not know something. Be afraid of not learning about it._
+_Happiness is not a goal...it's a by-product of a life well lived._
 
-**— Zen Proverb**
+**— Eleanor Roosevelt**
 <!--QUOTE_END-->
 
 ---
