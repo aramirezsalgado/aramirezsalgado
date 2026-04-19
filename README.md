@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Happiness is not a goal...it's a by-product of a life well lived._
+_Knowing is not enough, we must apply. Willing is not enough, we must do._
 
-**— Eleanor Roosevelt**
+**— Johann Wolfgang von Goethe**
 <!--QUOTE_END-->
 
 ---
