@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is what happens to you while you're busy making other plans._
+_You are the average of the five people you spend the most time with._
 
-**— John Lennon**
+**— Jim Rohn**
 <!--QUOTE_END-->
 
 ---
