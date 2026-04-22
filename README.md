@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You are the average of the five people you spend the most time with._
+_Find something you love and do it better than everyone else._
 
-**— Jim Rohn**
+**— Gurbaksh Chahal**
 <!--QUOTE_END-->
 
 ---
