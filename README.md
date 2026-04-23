@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Find something you love and do it better than everyone else._
+_Happiness is not the absence of problems, it's the ability to deal with them._
 
-**— Gurbaksh Chahal**
+**— Steve Maraboli**
 <!--QUOTE_END-->
 
 ---
