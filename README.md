@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Happiness is not the absence of problems, it's the ability to deal with them._
+_Success is never final; failure is never fatal._
 
-**— Steve Maraboli**
+**— Conrad Hilton**
 <!--QUOTE_END-->
 
 ---
