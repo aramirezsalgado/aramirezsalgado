@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is never final; failure is never fatal._
+_Never trust he who trusts everyone._
 
-**— Conrad Hilton**
+**— Carlos Ruiz Zafon**
 <!--QUOTE_END-->
 
 ---
