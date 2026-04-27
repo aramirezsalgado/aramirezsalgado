@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_TEAMWORK: the fuel that allows common people attain uncommon results._
+_Not all those who wander are lost._
 
-**— Andrew Carnegie**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
