@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Not all those who wander are lost._
+_Definiteness of purpose is the starting point of all achievement. _
 
-**— J.R.R. Tolkien**
+**— W. Clement Stone**
 <!--QUOTE_END-->
 
 ---
