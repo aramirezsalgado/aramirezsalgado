@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Definiteness of purpose is the starting point of all achievement. _
+_People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love._
 
-**— W. Clement Stone**
+**— Dr. Seuss**
 <!--QUOTE_END-->
 
 ---
