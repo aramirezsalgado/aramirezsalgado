@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is better to fail in originality than to succeed in imitation._
+_No snowflake ever falls in the wrong place._
 
-**— Herman Melville**
+**— Zen Proverb**
 <!--QUOTE_END-->
 
 ---
