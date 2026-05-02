@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No snowflake ever falls in the wrong place._
+_Some people find fault like there is a reward for it.  _
 
-**— Zen Proverb**
+**— Zig Ziglar**
 <!--QUOTE_END-->
 
 ---
