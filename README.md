@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Some people find fault like there is a reward for it.  _
+_Don't let the fear of losing be greater than the excitement of winning._
 
-**— Zig Ziglar**
+**— Robert Kiyosaki**
 <!--QUOTE_END-->
 
 ---
