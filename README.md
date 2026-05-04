@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't let the fear of losing be greater than the excitement of winning._
+_The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time._
 
-**— Robert Kiyosaki**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
