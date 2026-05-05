@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time._
+_No man is happy unless he believes he is._
 
-**— Mark Twain**
+**— Publilius Syrus**
 <!--QUOTE_END-->
 
 ---
