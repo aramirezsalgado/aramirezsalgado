@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No man is happy unless he believes he is._
+_If you see yourself as prosperous, you will be._
 
-**— Publilius Syrus**
+**— Robert Collier**
 <!--QUOTE_END-->
 
 ---
