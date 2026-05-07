@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you see yourself as prosperous, you will be._
+_Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'_
 
-**— Robert Collier**
+**— Brian Tracy**
 <!--QUOTE_END-->
 
 ---
