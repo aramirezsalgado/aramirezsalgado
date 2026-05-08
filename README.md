@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'_
+_The future will be shaped by those willing to commit their minds and their bodies to the task._
 
-**— Brian Tracy**
+**— Robert F. Kennedy**
 <!--QUOTE_END-->
 
 ---
