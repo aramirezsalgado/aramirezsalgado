@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The future will be shaped by those willing to commit their minds and their bodies to the task._
+_All I can do is be me, whoever that is._
 
-**— Robert F. Kennedy**
+**— Bob Dylan**
 <!--QUOTE_END-->
 
 ---
