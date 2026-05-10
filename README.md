@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All I can do is be me, whoever that is._
+_Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability._
 
-**— Bob Dylan**
+**— John Wooden**
 <!--QUOTE_END-->
 
 ---
