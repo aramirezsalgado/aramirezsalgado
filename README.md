@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The soul should always stand ajar, ready to welcome the ecstatic experience._
+_Not all those who wander are lost._
 
-**— Emily Dickinson**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
