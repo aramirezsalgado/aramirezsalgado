@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Not all those who wander are lost._
+_It's not whether you get knocked down, its whether you get back up._
 
-**— J.R.R. Tolkien**
+**— Vince Lombardi**
 <!--QUOTE_END-->
 
 ---
