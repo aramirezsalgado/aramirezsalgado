@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It's not whether you get knocked down, its whether you get back up._
+_Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it._
 
-**— Vince Lombardi**
+**— George Eliot**
 <!--QUOTE_END-->
 
 ---
