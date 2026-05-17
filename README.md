@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it._
+_Being ignorant is not so much a shame, as being unwilling to learn._
 
-**— George Eliot**
+**— Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
