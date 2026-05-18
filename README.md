@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Being ignorant is not so much a shame, as being unwilling to learn._
+_It is our experiences that mold us into who we are...during times of adversity our true character will show._
 
-**— Benjamin Franklin**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
