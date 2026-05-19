@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is our experiences that mold us into who we are...during times of adversity our true character will show._
+_Best be yourself, imperial, plain, and true._
 
-**— Unknown**
+**— Robert Browning**
 <!--QUOTE_END-->
 
 ---
