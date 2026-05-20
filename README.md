@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Best be yourself, imperial, plain, and true._
+_Looking after my health today gives me a better hope for tomorrow. _
 
-**— Robert Browning**
+**— Anne Wilson Schaef**
 <!--QUOTE_END-->
 
 ---
