@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Looking after my health today gives me a better hope for tomorrow. _
+_Do it with passion, or not at all._
 
-**— Anne Wilson Schaef**
+**— Rosa Nouchette Carey**
 <!--QUOTE_END-->
 
 ---
