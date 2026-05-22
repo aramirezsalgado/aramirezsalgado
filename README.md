@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do it with passion, or not at all._
+_Success is not how high you have climbed, but how you make a positive difference to the world._
 
-**— Rosa Nouchette Carey**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
