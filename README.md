@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is not how high you have climbed, but how you make a positive difference to the world._
+_At every moment where language can't go, that's your mind._
 
-**— Roy T. Bennett**
+**— Bodhidharma**
 <!--QUOTE_END-->
 
 ---
