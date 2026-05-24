@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_At every moment where language can't go, that's your mind._
+_You can often change your circumstances by changing your attitude._
 
-**— Bodhidharma**
+**— Eleanor Roosevelt**
 <!--QUOTE_END-->
 
 ---
