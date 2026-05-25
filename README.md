@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can often change your circumstances by changing your attitude._
+_Remember, hope is a good thing, maybe the best of things._
 
-**— Eleanor Roosevelt**
+**— Stephen King**
 <!--QUOTE_END-->
 
 ---
