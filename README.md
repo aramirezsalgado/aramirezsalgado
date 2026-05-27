@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Remember, hope is a good thing, maybe the best of things._
+_Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble._
 
-**— Stephen King**
+**— Robert Greene**
 <!--QUOTE_END-->
 
 ---
