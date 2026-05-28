@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble._
+_In the middle of difficulty lies opportunity._
 
-**— Robert Greene**
+**— Albert Einstein**
 <!--QUOTE_END-->
 
 ---
