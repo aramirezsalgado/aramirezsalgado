@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In the middle of difficulty lies opportunity._
+_Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes._
 
-**— Albert Einstein**
+**— Carl Jung**
 <!--QUOTE_END-->
 
 ---
