@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes._
+_Unless a man is master of his soul, all other kinds of mastery amount to little._
 
-**— Carl Jung**
+**— Theodore Roosevelt**
 <!--QUOTE_END-->
 
 ---
