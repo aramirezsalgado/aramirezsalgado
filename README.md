@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Unless a man is master of his soul, all other kinds of mastery amount to little._
+_Knowledge isn't power until it is applied._
 
-**— Theodore Roosevelt**
+**— Dale Carnegie**
 <!--QUOTE_END-->
 
 ---
