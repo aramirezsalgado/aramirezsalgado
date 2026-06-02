@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Knowledge isn't power until it is applied._
+_First learn the meaning of what you say, and then speak._
 
-**— Dale Carnegie**
+**— Epictetus**
 <!--QUOTE_END-->
 
 ---
