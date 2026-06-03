@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_First learn the meaning of what you say, and then speak._
+_Preoccupied with a single leaf you won't see the tree._
 
-**— Epictetus**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
