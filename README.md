@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Preoccupied with a single leaf you won't see the tree._
+_Everybody has talent, but ability takes hard work._
 
-**— Unknown**
+**— Michael Jordan**
 <!--QUOTE_END-->
 
 ---
