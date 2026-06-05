@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Everybody has talent, but ability takes hard work._
+_Remember that the best relationship is one in which your love for each other exceeds your need for each other._
 
-**— Michael Jordan**
+**— Dalai Lama**
 <!--QUOTE_END-->
 
 ---
