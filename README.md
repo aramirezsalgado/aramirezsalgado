@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Remember that the best relationship is one in which your love for each other exceeds your need for each other._
+_Dream big and dare to fail._
 
-**— Dalai Lama**
+**— Norman Vaughan**
 <!--QUOTE_END-->
 
 ---
