@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Thoughts become things. If you see it in your mind, you will hold it in your hand._
+_Opportunities don't often come along. So, when they do, you have to grab them._
 
-**— Bob Proctor**
+**— Audrey Hepburn**
 <!--QUOTE_END-->
 
 ---
