@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Opportunities don't often come along. So, when they do, you have to grab them._
+_No grand idea was ever born in a conference, but a lot of foolish ideas have died there._
 
-**— Audrey Hepburn**
+**— F. Scott Fitzgerald**
 <!--QUOTE_END-->
 
 ---
