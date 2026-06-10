@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No grand idea was ever born in a conference, but a lot of foolish ideas have died there._
+_You do not read a book for the book's sake, but for your own._
 
-**— F. Scott Fitzgerald**
+**— Earl Nightingale**
 <!--QUOTE_END-->
 
 ---
