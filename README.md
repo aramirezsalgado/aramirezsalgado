@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Desire is suffering._
+_Rivers know this: there is no hurry. We shall get there some day._
 
-**— Naval Ravikant**
+**— A.A. Milne**
 <!--QUOTE_END-->
 
 ---
