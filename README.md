@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_My definition of success is control._
+_We are always complaining that our days are few, and acting as though there would be no end of them._
 
-**— Kenneth Branagh**
+**— Seneca**
 <!--QUOTE_END-->
 
 ---
