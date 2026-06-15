@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_We are always complaining that our days are few, and acting as though there would be no end of them._
+_If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success._
 
-**— Seneca**
+**— Mark Manson**
 <!--QUOTE_END-->
 
 ---
