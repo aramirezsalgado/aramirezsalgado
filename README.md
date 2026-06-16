@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success._
+_The important thing is not what one is born with but what use one makes of that equipment._
 
-**— Mark Manson**
+**— Alfred Adler**
 <!--QUOTE_END-->
 
 ---
