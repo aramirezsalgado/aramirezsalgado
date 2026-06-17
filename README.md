@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The important thing is not what one is born with but what use one makes of that equipment._
+_A person who does not read is no better than one cannot read._
 
-**— Alfred Adler**
+**— Earl Nightingale**
 <!--QUOTE_END-->
 
 ---
