@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A person who does not read is no better than one cannot read._
+_A little impatience will spoil great plans._
 
-**— Earl Nightingale**
+**— Chinese Proverb**
 <!--QUOTE_END-->
 
 ---
