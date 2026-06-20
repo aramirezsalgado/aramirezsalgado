@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to._
+_The wise pursue wisdom, the dull follow in blind faith._
 
-**— Kahlil Gibran**
+**— Tibetan Proverb**
 <!--QUOTE_END-->
 
 ---
