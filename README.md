@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you._
+_You may be disappointed if you fail, but you are doomed if you don't try._
 
-**— Sonia Ricotti**
+**— Beverly Sills**
 <!--QUOTE_END-->
 
 ---
