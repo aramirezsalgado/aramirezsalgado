@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You may be disappointed if you fail, but you are doomed if you don't try._
+_To be calm is the highest achievement of the self._
 
-**— Beverly Sills**
+**— Zen Proverb**
 <!--QUOTE_END-->
 
 ---
