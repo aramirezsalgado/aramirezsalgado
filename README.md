@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To be calm is the highest achievement of the self._
+_The giving of love is an education in itself._
 
-**— Zen Proverb**
+**— Eleanor Roosevelt**
 <!--QUOTE_END-->
 
 ---
