@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The giving of love is an education in itself._
+_To lead an orchestra, you must turn your back on the crowd._
 
-**— Eleanor Roosevelt**
+**— Aristotle**
 <!--QUOTE_END-->
 
 ---
