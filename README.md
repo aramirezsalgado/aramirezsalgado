@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To lead an orchestra, you must turn your back on the crowd._
+_The joy of life comes from our encounters with new experiences._
 
-**— Aristotle**
+**— Christopher McCandless**
 <!--QUOTE_END-->
 
 ---
