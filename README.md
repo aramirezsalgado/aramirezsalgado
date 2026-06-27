@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The joy of life comes from our encounters with new experiences._
+_All leaders are readers._
 
-**— Christopher McCandless**
+**— Jim Rohn**
 <!--QUOTE_END-->
 
 ---
