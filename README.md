@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All leaders are readers._
+_Best be yourself, imperial, plain, and true._
 
-**— Jim Rohn**
+**— Robert Browning**
 <!--QUOTE_END-->
 
 ---
