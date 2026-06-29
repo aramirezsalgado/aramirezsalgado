@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Best be yourself, imperial, plain, and true._
+_The purpose of life is the life of purpose._
 
-**— Robert Browning**
+**— Robin Sharma**
 <!--QUOTE_END-->
 
 ---
