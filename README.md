@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A loving heart is the truest wisdom._
+_You can't let your failures define you. You have to let your failures teach you._
 
-**— Charles Dickens**
+**— Barack Obama**
 <!--QUOTE_END-->
 
 ---
