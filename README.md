@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can't let your failures define you. You have to let your failures teach you._
+_The heart wants what it wants. There's no logic._
 
-**— Barack Obama**
+**— Woody Allen**
 <!--QUOTE_END-->
 
 ---
