@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The heart wants what it wants. There's no logic._
+_Live life as though nobody is watching, and express yourself as though everyone is listening._
 
-**— Woody Allen**
+**— Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
