@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Live life as though nobody is watching, and express yourself as though everyone is listening._
+_Life is filled with secrets. You can't learn them all at once._
 
-**— Nelson Mandela**
+**— Dan Brown**
 <!--QUOTE_END-->
 
 ---
