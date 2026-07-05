@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is filled with secrets. You can't learn them all at once._
+_Success is going from failure to failure without losing your enthusiasm_
 
-**— Dan Brown**
+**— Winston Churchill**
 <!--QUOTE_END-->
 
 ---
