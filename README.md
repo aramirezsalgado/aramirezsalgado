@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is going from failure to failure without losing your enthusiasm_
+_Learn only how to avoid seeking for and attaching yourselves to anything._
 
-**— Winston Churchill**
+**— Huang Po**
 <!--QUOTE_END-->
 
 ---
