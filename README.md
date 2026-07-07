@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Learn only how to avoid seeking for and attaching yourselves to anything._
+_The best fighter is never angry._
 
-**— Huang Po**
+**— Lao Tzu**
 <!--QUOTE_END-->
 
 ---
