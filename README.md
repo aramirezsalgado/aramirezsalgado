@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The best fighter is never angry._
+_He who has overcome his fears will truly be free._
 
-**— Lao Tzu**
+**— Aristotle**
 <!--QUOTE_END-->
 
 ---
