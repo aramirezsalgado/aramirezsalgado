@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_He who has overcome his fears will truly be free._
+_The dead receive more flowers than the living because regret is stronger than gratitude._
 
-**— Aristotle**
+**— Anne Frank**
 <!--QUOTE_END-->
 
 ---
