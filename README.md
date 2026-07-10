@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The dead receive more flowers than the living because regret is stronger than gratitude._
+_The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety._
 
-**— Anne Frank**
+**— Sathya Sai Baba**
 <!--QUOTE_END-->
 
 ---
