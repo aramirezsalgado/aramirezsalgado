@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety._
+_True knowledge exists in knowing that you know nothing._
 
-**— Sathya Sai Baba**
+**— Socrates**
 <!--QUOTE_END-->
 
 ---
