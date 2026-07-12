@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_True knowledge exists in knowing that you know nothing._
+_To earn more you must learn more._
 
-**— Socrates**
+**— Brian Tracy**
 <!--QUOTE_END-->
 
 ---
