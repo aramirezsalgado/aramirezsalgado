@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_To earn more you must learn more._
+_Everything begins with an idea._
 
-**— Brian Tracy**
+**— Earl Nightingale**
 <!--QUOTE_END-->
 
 ---
