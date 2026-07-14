@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Everything begins with an idea._
+_Definitions belong to the definers, not the defined._
 
-**— Earl Nightingale**
+**— Toni Morrison**
 <!--QUOTE_END-->
 
 ---
