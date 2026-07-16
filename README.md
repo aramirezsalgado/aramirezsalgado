@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves._
+_Create each day anew._
 
-**— Steve Maraboli**
+**— Morihei Ueshiba**
 <!--QUOTE_END-->
 
 ---
