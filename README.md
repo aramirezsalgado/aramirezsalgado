@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Create each day anew._
+_Listen to the secret sound, the real sound, which is inside you._
 
-**— Morihei Ueshiba**
+**— Kabir**
 <!--QUOTE_END-->
 
 ---
