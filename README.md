@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Listen to the secret sound, the real sound, which is inside you._
+_Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit._
 
-**— Kabir**
+**— Conrad Hilton**
 <!--QUOTE_END-->
 
 ---
