@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit._
+_There is only the one reality, neither to be realized nor attained._
 
-**— Conrad Hilton**
+**— Huang Po**
 <!--QUOTE_END-->
 
 ---
