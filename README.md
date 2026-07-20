@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is only the one reality, neither to be realized nor attained._
+_People inspire you, or they drain you. Pick them wisely._
 
-**— Huang Po**
+**— Les Brown**
 <!--QUOTE_END-->
 
 ---
