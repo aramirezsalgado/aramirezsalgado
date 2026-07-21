@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_People inspire you, or they drain you. Pick them wisely._
+_You miss 100% of the shots you don't take._
 
-**— Les Brown**
+**— Wayne Gretzky**
 <!--QUOTE_END-->
 
 ---
