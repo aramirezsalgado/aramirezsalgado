@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You miss 100% of the shots you don't take._
+_A zen master's life is one continuous mistake._
 
-**— Wayne Gretzky**
+**— Dogen**
 <!--QUOTE_END-->
 
 ---
