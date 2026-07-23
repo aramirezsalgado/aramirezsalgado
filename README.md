@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A zen master's life is one continuous mistake._
+_The chief enemy of creativity is good sense._
 
-**— Dogen**
+**— Pablo Picasso**
 <!--QUOTE_END-->
 
 ---
