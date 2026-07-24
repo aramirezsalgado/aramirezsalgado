@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The chief enemy of creativity is good sense._
+_Imagination is the true magic carpet._
 
-**— Pablo Picasso**
+**— Norman Vincent Peale**
 <!--QUOTE_END-->
 
 ---
