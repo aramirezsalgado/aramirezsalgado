@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Imagination is the true magic carpet._
+_Be brave. Take risks. Nothing can substitute experience._
 
-**— Norman Vincent Peale**
+**— Paulo Coelho**
 <!--QUOTE_END-->
 
 ---
