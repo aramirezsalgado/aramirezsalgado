@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Be brave. Take risks. Nothing can substitute experience._
+_How to get more opportunity: Create more opportunity for others._
 
-**— Paulo Coelho**
+**— Jack Butcher**
 <!--QUOTE_END-->
 
 ---
