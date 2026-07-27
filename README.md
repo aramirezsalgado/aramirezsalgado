@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_How to get more opportunity: Create more opportunity for others._
+_You came empty handed, and you will leave empty handed._
 
-**— Jack Butcher**
+**— Bhagavad Gita**
 <!--QUOTE_END-->
 
 ---
