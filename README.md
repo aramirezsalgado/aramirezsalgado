@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You came empty handed, and you will leave empty handed._
+_Happiness is an effect of doing what you love, not an end goal to be achieved._
 
-**— Bhagavad Gita**
+**— Celestine Chua**
 <!--QUOTE_END-->
 
 ---
