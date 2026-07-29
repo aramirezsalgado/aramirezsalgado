@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Happiness is an effect of doing what you love, not an end goal to be achieved._
+_Your heart is the size of an ocean. Go find yourself in its hidden depths._
 
-**— Celestine Chua**
+**— Rumi**
 <!--QUOTE_END-->
 
 ---
