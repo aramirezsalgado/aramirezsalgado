@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Your heart is the size of an ocean. Go find yourself in its hidden depths._
+_He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all._
 
-**— Rumi**
+**— Miguel de Cervantes**
 <!--QUOTE_END-->
 
 ---
