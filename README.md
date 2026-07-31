@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all._
+_He who is untrue to his own cause cannot command the respect of others._
 
-**— Miguel de Cervantes**
+**— Albert Einstein**
 <!--QUOTE_END-->
 
 ---
