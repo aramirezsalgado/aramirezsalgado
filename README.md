@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_He who is untrue to his own cause cannot command the respect of others._
+_When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way._
 
-**— Albert Einstein**
+**— Wayne Dyer**
 <!--QUOTE_END-->
 
 ---
