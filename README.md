@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way._
+_The world doesn't owe you anything. It was here first._
 
-**— Wayne Dyer**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
