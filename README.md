@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The world doesn't owe you anything. It was here first._
+_So we beat on, boats against the current, borne back ceaselessly into the past._
 
-**— Mark Twain**
+**— F. Scott Fitzgerald**
 <!--QUOTE_END-->
 
 ---
