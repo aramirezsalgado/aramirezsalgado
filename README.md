@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_So we beat on, boats against the current, borne back ceaselessly into the past._
+_A real friend is one who walks in when the rest of the world walks out._
 
-**— F. Scott Fitzgerald**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
