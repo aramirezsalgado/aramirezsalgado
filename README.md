@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A real friend is one who walks in when the rest of the world walks out._
+_Rudeness is the weak man's imitation of strength._
 
-**— Unknown**
+**— Eric Hoffer**
 <!--QUOTE_END-->
 
 ---
