@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Rudeness is the weak man's imitation of strength._
+_The majority of what you want will come from the minority of what you do._
 
-**— Eric Hoffer**
+**— Gary Keller**
 <!--QUOTE_END-->
 
 ---
