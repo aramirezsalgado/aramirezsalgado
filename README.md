@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The majority of what you want will come from the minority of what you do._
+_The secret of getting ahead is getting started._
 
-**— Gary Keller**
+**— Mark Twain**
 <!--QUOTE_END-->
 
 ---
