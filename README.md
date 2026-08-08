@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The secret of getting ahead is getting started._
+_The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune._
 
-**— Mark Twain**
+**— Charles Swindoll**
 <!--QUOTE_END-->
 
 ---
