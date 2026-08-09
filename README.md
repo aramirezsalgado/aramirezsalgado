@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune._
+_You will never do anything in this world without courage. It is the greatest quality of the mind next to honor._
 
-**— Charles Swindoll**
+**— James Allen**
 <!--QUOTE_END-->
 
 ---
