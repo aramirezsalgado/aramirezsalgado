@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You will never do anything in this world without courage. It is the greatest quality of the mind next to honor._
+_It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform._
 
-**— James Allen**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
