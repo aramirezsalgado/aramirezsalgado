@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform._
+_Happiness is only real, when shared._
 
-**— Roy T. Bennett**
+**— Christopher McCandless**
 <!--QUOTE_END-->
 
 ---
