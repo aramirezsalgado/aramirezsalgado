@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Happiness is only real, when shared._
+_Either you choose to stay in the shallow end of the pool or you go out into the ocean._
 
-**— Christopher McCandless**
+**— Christopher Reeve**
 <!--QUOTE_END-->
 
 ---
