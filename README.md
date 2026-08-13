@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Either you choose to stay in the shallow end of the pool or you go out into the ocean._
+_The very essence of instinct is that it's followed independently of reason._
 
-**— Christopher Reeve**
+**— Charles Darwin**
 <!--QUOTE_END-->
 
 ---
