@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The very essence of instinct is that it's followed independently of reason._
+_Words are the clothes thoughts wear._
 
-**— Charles Darwin**
+**— Samuel Beckett**
 <!--QUOTE_END-->
 
 ---
