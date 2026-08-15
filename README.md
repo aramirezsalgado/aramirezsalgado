@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Words are the clothes thoughts wear._
+_What gets measured gets improved._
 
-**— Samuel Beckett**
+**— Robin Sharma**
 <!--QUOTE_END-->
 
 ---
