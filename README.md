@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_What gets measured gets improved._
+_The chief danger in life is that you may take too many precautions._
 
-**— Robin Sharma**
+**— Alfred Adler**
 <!--QUOTE_END-->
 
 ---
