@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The chief danger in life is that you may take too many precautions._
+_Success is an iceberg._
 
-**— Alfred Adler**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
