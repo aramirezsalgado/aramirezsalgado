@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Success is an iceberg._
+_The world is a puzzle; no need to make sense out of it._
 
-**— Unknown**
+**— Socrates**
 <!--QUOTE_END-->
 
 ---
