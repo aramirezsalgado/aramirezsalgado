@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The world is a puzzle; no need to make sense out of it._
+_Don't set your own goals by what other people make important._
 
-**— Socrates**
+**— Lolly Daskal**
 <!--QUOTE_END-->
 
 ---
