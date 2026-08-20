@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't set your own goals by what other people make important._
+_Don't be afraid to see what you see._
 
-**— Lolly Daskal**
+**— Ronald Reagan**
 <!--QUOTE_END-->
 
 ---
