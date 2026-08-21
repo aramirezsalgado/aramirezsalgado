@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't be afraid to see what you see._
+_Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard._
 
-**— Ronald Reagan**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
