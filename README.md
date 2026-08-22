@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard._
+_Empty your mind, be formless, shapeless, like water._
 
-**— Colin Powell**
+**— Bruce Lee**
 <!--QUOTE_END-->
 
 ---
