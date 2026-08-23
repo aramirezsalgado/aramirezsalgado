@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Empty your mind, be formless, shapeless, like water._
+_A wise person should have money in their head, but not in their heart._
 
-**— Bruce Lee**
+**— Jonathan Swift**
 <!--QUOTE_END-->
 
 ---
