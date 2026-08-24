@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A wise person should have money in their head, but not in their heart._
+_Do the difficult things while they are easy and do the great things while they are small._
 
-**— Jonathan Swift**
+**— Lao Tzu**
 <!--QUOTE_END-->
 
 ---
