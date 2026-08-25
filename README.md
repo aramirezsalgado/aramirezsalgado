@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do the difficult things while they are easy and do the great things while they are small._
+_Imagination is everything. It is the preview of life's coming attractions._
 
-**— Lao Tzu**
+**— Albert Einstein**
 <!--QUOTE_END-->
 
 ---
