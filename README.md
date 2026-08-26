@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Imagination is everything. It is the preview of life's coming attractions._
+_If fear is too strong, the genius is suppressed._
 
-**— Albert Einstein**
+**— Robert Kiyosaki**
 <!--QUOTE_END-->
 
 ---
