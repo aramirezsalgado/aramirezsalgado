@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If fear is too strong, the genius is suppressed._
+_Lack of emotion causes lack of progress and lack of motivation._
 
-**— Robert Kiyosaki**
+**— Tony Robbins**
 <!--QUOTE_END-->
 
 ---
