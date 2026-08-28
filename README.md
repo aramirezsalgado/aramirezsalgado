@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Lack of emotion causes lack of progress and lack of motivation._
+_Don't let the silly little dramas of each day get you down. For you are here to do great things._
 
-**— Tony Robbins**
+**— Ralph Marston**
 <!--QUOTE_END-->
 
 ---
