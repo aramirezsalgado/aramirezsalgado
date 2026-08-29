@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't let the silly little dramas of each day get you down. For you are here to do great things._
+_Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward._
 
-**— Ralph Marston**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
