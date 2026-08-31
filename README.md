@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Nothing can survive without food. Everything we consume acts either to heal us or to poison us._
+_One day, in retrospect, the years of struggle will strike you as the most beautiful._
 
-**— Thich Nhat Hanh**
+**— Sigmund Freud**
 <!--QUOTE_END-->
 
 ---
