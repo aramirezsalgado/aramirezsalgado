@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_One day, in retrospect, the years of struggle will strike you as the most beautiful._
+_Opportunities don't often come along. So, when they do, you have to grab them._
 
-**— Sigmund Freud**
+**— Audrey Hepburn**
 <!--QUOTE_END-->
 
 ---
