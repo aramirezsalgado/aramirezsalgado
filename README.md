@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Opportunities don't often come along. So, when they do, you have to grab them._
+_Quality is not an act, it is a habit._
 
-**— Audrey Hepburn**
+**— Colin R. Davis**
 <!--QUOTE_END-->
 
 ---
