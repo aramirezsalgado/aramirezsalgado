@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Quality is not an act, it is a habit._
+_Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight._
 
-**— Colin R. Davis**
+**— Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
