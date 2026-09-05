@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Identification with our mind causes thought to become compulsive._
+_Whoever is happy will make others happy too._
 
-**— Eckhart Tolle**
+**— Anne Frank**
 <!--QUOTE_END-->
 
 ---
