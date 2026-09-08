@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Some people find fault like there is a reward for it._
+_My instinct is always to seek out challenges as opposed to avoiding them._
 
-**— Zig Ziglar**
+**— Josh Waitzkin**
 <!--QUOTE_END-->
 
 ---
