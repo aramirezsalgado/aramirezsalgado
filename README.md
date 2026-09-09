@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_My instinct is always to seek out challenges as opposed to avoiding them._
+_Whatever is begun in anger, ends in shame._
 
-**— Josh Waitzkin**
+**— Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
