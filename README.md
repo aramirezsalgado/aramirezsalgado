@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Whatever is begun in anger, ends in shame._
+_What have you done today to make someone else happy?_
 
-**— Benjamin Franklin**
+**— Deepam Chaterjee**
 <!--QUOTE_END-->
 
 ---
