@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_What have you done today to make someone else happy?_
+_The power of man has grown in every sphere, except over himself._
 
-**— Deepam Chaterjee**
+**— Winston Churchill**
 <!--QUOTE_END-->
 
 ---
