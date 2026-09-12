@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The power of man has grown in every sphere, except over himself._
+_No great mind has ever existed without a touch of madness._
 
-**— Winston Churchill**
+**— Aristotle**
 <!--QUOTE_END-->
 
 ---
