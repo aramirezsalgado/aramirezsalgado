@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_No great mind has ever existed without a touch of madness._
+_Faults are yours to fix, not to curse._
 
-**— Aristotle**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
