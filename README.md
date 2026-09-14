@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Faults are yours to fix, not to curse._
+_Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better._
 
-**— Colin Powell**
+**— Samuel Beckett**
 <!--QUOTE_END-->
 
 ---
