@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better._
+_What kills the creative force is not age or lack of talent, but our own spirit, our own attitude._
 
-**— Samuel Beckett**
+**— Robert Greene**
 <!--QUOTE_END-->
 
 ---
