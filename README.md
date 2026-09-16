@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_What kills the creative force is not age or lack of talent, but our own spirit, our own attitude._
+_Where focus goes, energy flows._
 
-**— Robert Greene**
+**— Tony Robbins**
 <!--QUOTE_END-->
 
 ---
