@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Where focus goes, energy flows._
+_Know your gifts and share them._
 
-**— Tony Robbins**
+**— Les Brown**
 <!--QUOTE_END-->
 
 ---
