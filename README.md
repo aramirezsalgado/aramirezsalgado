@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Know your gifts and share them._
+_There is no greater agony than bearing an untold story inside you._
 
-**— Les Brown**
+**— Maya Angelou**
 <!--QUOTE_END-->
 
 ---
