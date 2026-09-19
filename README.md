@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is no greater agony than bearing an untold story inside you._
+_Identify your problems, but give your power and energy to solutions._
 
-**— Maya Angelou**
+**— Tony Robbins**
 <!--QUOTE_END-->
 
 ---
