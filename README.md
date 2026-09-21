@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Identify your problems, but give your power and energy to solutions._
+_Consider the rights of others before your own feelings, and the feelings of others before your own rights._
 
-**— Tony Robbins**
+**— John Wooden**
 <!--QUOTE_END-->
 
 ---
