@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It will never rain roses: when we want to have more roses, we must plant more roses._
+_Little minds have little worries, big minds have no time for worries._
 
-**— George Eliot**
+**— Ralph Waldo Emerson**
 <!--QUOTE_END-->
 
 ---
