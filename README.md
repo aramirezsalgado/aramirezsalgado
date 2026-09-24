@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Little minds have little worries, big minds have no time for worries._
+_Opportunity is missed by most people because it is dressed in overalls and looks like work._
 
-**— Ralph Waldo Emerson**
+**— Thomas Edison**
 <!--QUOTE_END-->
 
 ---
