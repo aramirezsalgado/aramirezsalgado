@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Opportunity is missed by most people because it is dressed in overalls and looks like work._
+_Imagination is the true magic carpet._
 
-**— Thomas Edison**
+**— Norman Vincent Peale**
 <!--QUOTE_END-->
 
 ---
