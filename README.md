@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Imagination is the true magic carpet._
+_Charms strike the sight, but merit wins the soul._
 
-**— Norman Vincent Peale**
+**— Alexander Pope**
 <!--QUOTE_END-->
 
 ---
