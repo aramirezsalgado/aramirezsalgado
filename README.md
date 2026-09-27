@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Charms strike the sight, but merit wins the soul._
+_Sometimes out of your biggest misery, comes your greatest gain._
 
-**— Alexander Pope**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
