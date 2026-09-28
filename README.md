@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Sometimes out of your biggest misery, comes your greatest gain._
+_In order to attain the impossible, one must attempt the absurd._
 
-**— Steve Harvey**
+**— Miguel de Cervantes**
 <!--QUOTE_END-->
 
 ---
