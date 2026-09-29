@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_In order to attain the impossible, one must attempt the absurd._
+_Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy._
 
-**— Miguel de Cervantes**
+**— Robert Kiyosaki**
 <!--QUOTE_END-->
 
 ---
