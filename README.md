@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy._
+_Better to light a candle than to curse the darkness._
 
-**— Robert Kiyosaki**
+**— Chinese Proverb**
 <!--QUOTE_END-->
 
 ---
