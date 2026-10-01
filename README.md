@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Better to light a candle than to curse the darkness._
+_There is no excuse for not trying._
 
-**— Chinese Proverb**
+**— Barack Obama**
 <!--QUOTE_END-->
 
 ---
