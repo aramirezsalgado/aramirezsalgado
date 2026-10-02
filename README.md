@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is no excuse for not trying._
+_You're never too old for anything._
 
-**— Barack Obama**
+**— Betty White**
 <!--QUOTE_END-->
 
 ---
