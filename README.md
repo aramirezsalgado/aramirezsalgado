@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You're never too old for anything._
+_What loneliness is more lonely than distrust?_
 
-**— Betty White**
+**— George Eliot**
 <!--QUOTE_END-->
 
 ---
