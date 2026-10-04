@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_What loneliness is more lonely than distrust?_
+_Making your mark on the world is hard. If it were easy, everybody would do it._
 
-**— George Eliot**
+**— Barack Obama**
 <!--QUOTE_END-->
 
 ---
