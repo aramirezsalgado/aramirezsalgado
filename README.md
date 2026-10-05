@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Making your mark on the world is hard. If it were easy, everybody would do it._
+_There is nothing like looking if you want to find something._
 
-**— Barack Obama**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
