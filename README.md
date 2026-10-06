@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is nothing like looking if you want to find something._
+_The greatest discovery of all time is that a person can change their future by merely changing their attitude._
 
-**— J.R.R. Tolkien**
+**— Oprah Winfrey**
 <!--QUOTE_END-->
 
 ---
