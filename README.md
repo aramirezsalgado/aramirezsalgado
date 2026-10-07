@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The greatest discovery of all time is that a person can change their future by merely changing their attitude._
+_It is best to begin at the beginning._
 
-**— Oprah Winfrey**
+**— Amelia Earhart**
 <!--QUOTE_END-->
 
 ---
