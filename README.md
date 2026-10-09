@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_By words the mind is winged._
+_People should pursue what they're passionate about. That will make them happier than pretty much anything else._
 
-**— Aristophanes**
+**— Elon Musk**
 <!--QUOTE_END-->
 
 ---
