@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_People should pursue what they're passionate about. That will make them happier than pretty much anything else._
+_The traveler sees what he sees. The tourist sees what he has come to see._
 
-**— Elon Musk**
+**— Gilbert Chesterton**
 <!--QUOTE_END-->
 
 ---
