@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The traveler sees what he sees. The tourist sees what he has come to see._
+_Arise, slay thy enemies, enjoy a prosperous kingdom._
 
-**— Gilbert Chesterton**
+**— Bhagavad Gita**
 <!--QUOTE_END-->
 
 ---
