@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_TEAMWORK: the fuel that allows common people attain uncommon results._
+_Do the difficult things while they are easy and do the great things while they are small._
 
-**— Andrew Carnegie**
+**— Lao Tzu**
 <!--QUOTE_END-->
 
 ---
