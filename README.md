@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Those who bring sunshine into the lives of others cannot keep it from themselves._
+_It's good to learn from your mistakes. It's better to learn from other people's mistakes._
 
-**— James Matthew Barrie**
+**— Warren Buffett**
 <!--QUOTE_END-->
 
 ---
