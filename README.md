@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It's good to learn from your mistakes. It's better to learn from other people's mistakes._
+_You can't climb the ladder of success with your hands in your pockets._
 
-**— Warren Buffett**
+**— Arnold Schwarzenegger**
 <!--QUOTE_END-->
 
 ---
