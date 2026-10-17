@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You can't climb the ladder of success with your hands in your pockets._
+_If you want to achieve greatness stop asking for permission._
 
-**— Arnold Schwarzenegger**
+**— Unknown**
 <!--QUOTE_END-->
 
 ---
