@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you want to achieve greatness stop asking for permission._
+_There is a big difference between being centered and being self-centered._
 
-**— Unknown**
+**— Lolly Daskal**
 <!--QUOTE_END-->
 
 ---
