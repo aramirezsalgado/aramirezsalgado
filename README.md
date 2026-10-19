@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_There is a big difference between being centered and being self-centered._
+_Don't let your mind stop you._
 
-**— Lolly Daskal**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
