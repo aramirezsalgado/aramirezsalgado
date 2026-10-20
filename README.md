@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't let your mind stop you._
+_Only by attracting the best people will you accomplish great deeds._
 
-**— Steve Harvey**
+**— Colin Powell**
 <!--QUOTE_END-->
 
 ---
