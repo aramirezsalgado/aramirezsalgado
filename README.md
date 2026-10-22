@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A lie can travel half way around the world while the truth is putting on its shoes._
+_Never trust he who trusts everyone._
 
-**— Mark Twain**
+**— Carlos Ruiz Zafon**
 <!--QUOTE_END-->
 
 ---
