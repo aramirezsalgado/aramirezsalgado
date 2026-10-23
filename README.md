@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Never trust he who trusts everyone._
+_Even the smallest person can change the course of the future._
 
-**— Carlos Ruiz Zafon**
+**— J.R.R. Tolkien**
 <!--QUOTE_END-->
 
 ---
