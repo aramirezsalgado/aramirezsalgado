@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Even the smallest person can change the course of the future._
+_Victory is always possible for the person who refuses to stop fighting._
 
-**— J.R.R. Tolkien**
+**— Napoleon Hill**
 <!--QUOTE_END-->
 
 ---
