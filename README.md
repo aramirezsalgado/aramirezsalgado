@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Victory is always possible for the person who refuses to stop fighting._
+_If you truly expect something to be difficult, it will be._
 
-**— Napoleon Hill**
+**— Peter A. Cohen**
 <!--QUOTE_END-->
 
 ---
