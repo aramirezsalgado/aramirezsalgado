@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If you truly expect something to be difficult, it will be._
+_Live in the sunshine, swim the sea, drink the wild air._
 
-**— Peter A. Cohen**
+**— Ralph Waldo Emerson**
 <!--QUOTE_END-->
 
 ---
