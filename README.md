@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Live in the sunshine, swim the sea, drink the wild air._
+_Take interest and even delight in doing the small things well._
 
-**— Ralph Waldo Emerson**
+**— Jim Rohn**
 <!--QUOTE_END-->
 
 ---
