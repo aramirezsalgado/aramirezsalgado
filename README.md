@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Take interest and even delight in doing the small things well._
+_The beautiful journey of today can only begin when we learn to let go of yesterday._
 
-**— Jim Rohn**
+**— Steve Maraboli**
 <!--QUOTE_END-->
 
 ---
