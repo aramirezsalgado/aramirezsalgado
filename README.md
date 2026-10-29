@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The beautiful journey of today can only begin when we learn to let go of yesterday._
+_Awakening is possible only for those who seek it and want it._
 
-**— Steve Maraboli**
+**— G.I. Gurdjieff**
 <!--QUOTE_END-->
 
 ---
