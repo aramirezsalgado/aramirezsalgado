@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Awakening is possible only for those who seek it and want it._
+_The less you talk about your shame, the more of it you have._
 
-**— G.I. Gurdjieff**
+**— Mark Manson**
 <!--QUOTE_END-->
 
 ---
