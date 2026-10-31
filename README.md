@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The less you talk about your shame, the more of it you have._
+_Create with the heart; build with the mind._
 
-**— Mark Manson**
+**— Criss Jami**
 <!--QUOTE_END-->
 
 ---
