@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Create with the heart; build with the mind._
+_The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes._
 
-**— Criss Jami**
+**— Voltaire**
 <!--QUOTE_END-->
 
 ---
