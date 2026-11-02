@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes._
+_If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear._
 
-**— Voltaire**
+**— Jon Kabat-Zinn**
 <!--QUOTE_END-->
 
 ---
