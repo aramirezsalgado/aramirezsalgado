@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear._
+_The person who says something is impossible should not interrupt the person who is doing it._
 
-**— Jon Kabat-Zinn**
+**— Chinese Proverb**
 <!--QUOTE_END-->
 
 ---
