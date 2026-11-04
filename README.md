@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The person who says something is impossible should not interrupt the person who is doing it._
+_The number one cause of failure is the fear of failure._
 
-**— Chinese Proverb**
+**— Steve Harvey**
 <!--QUOTE_END-->
 
 ---
