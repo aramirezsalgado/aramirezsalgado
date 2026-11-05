@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The number one cause of failure is the fear of failure._
+_Life is trying things to see if they work._
 
-**— Steve Harvey**
+**— Ray Bradbury**
 <!--QUOTE_END-->
 
 ---
