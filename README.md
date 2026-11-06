@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Life is trying things to see if they work._
+_Do not pray for an easy life, pray for the strength to endure a difficult one._
 
-**— Ray Bradbury**
+**— Bruce Lee**
 <!--QUOTE_END-->
 
 ---
