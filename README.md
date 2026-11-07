@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Do not pray for an easy life, pray for the strength to endure a difficult one._
+_Action may not always bring happiness, but there is no happiness without action._
 
-**— Bruce Lee**
+**— William James**
 <!--QUOTE_END-->
 
 ---
