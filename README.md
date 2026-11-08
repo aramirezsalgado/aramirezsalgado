@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Action may not always bring happiness, but there is no happiness without action._
+_Most people get ahead during the time that others waste._
 
-**— William James**
+**— Henry Ford**
 <!--QUOTE_END-->
 
 ---
