@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Most people get ahead during the time that others waste._
+_Every second you have on this planet is very precious and it's your responsibility that you're happy._
 
-**— Henry Ford**
+**— Naval Ravikant**
 <!--QUOTE_END-->
 
 ---
