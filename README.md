@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Every second you have on this planet is very precious and it's your responsibility that you're happy._
+_Every day passes whether you participate or not._
 
-**— Naval Ravikant**
+**— Ming-Dao Deng**
 <!--QUOTE_END-->
 
 ---
