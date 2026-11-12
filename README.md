@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Every day passes whether you participate or not._
+_Whether you have a problem in your life or not depends upon your own attitude, your own understanding._
 
-**— Ming-Dao Deng**
+**— Shunryu Suzuki**
 <!--QUOTE_END-->
 
 ---
