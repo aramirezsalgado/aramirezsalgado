@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Whether you have a problem in your life or not depends upon your own attitude, your own understanding._
+_Don't spend major time on minor things._
 
-**— Shunryu Suzuki**
+**— Jim Rohn**
 <!--QUOTE_END-->
 
 ---
