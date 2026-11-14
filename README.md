@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't spend major time on minor things._
+_The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart._
 
-**— Jim Rohn**
+**— Helen Keller**
 <!--QUOTE_END-->
 
 ---
