@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart._
+_You don't know who is important to you until you actually lose them._
 
-**— Helen Keller**
+**— Mahatma Gandhi**
 <!--QUOTE_END-->
 
 ---
