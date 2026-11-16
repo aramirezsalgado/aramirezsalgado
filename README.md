@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_You don't know who is important to you until you actually lose them._
+_All cruelty springs from weakness._
 
-**— Mahatma Gandhi**
+**— Seneca**
 <!--QUOTE_END-->
 
 ---
