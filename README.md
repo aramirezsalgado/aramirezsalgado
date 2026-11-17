@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_All cruelty springs from weakness._
+_It is useless to attempt to reason a man out of a thing he was never reasoned into._
 
-**— Seneca**
+**— Jonathan Swift**
 <!--QUOTE_END-->
 
 ---
