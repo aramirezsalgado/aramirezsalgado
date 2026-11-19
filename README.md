@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is useless to attempt to reason a man out of a thing he was never reasoned into._
+_It doesn't matter where you are, you are nowhere compared to where you can go._
 
-**— Jonathan Swift**
+**— Bob Proctor**
 <!--QUOTE_END-->
 
 ---
