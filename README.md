@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It doesn't matter where you are, you are nowhere compared to where you can go._
+_It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated._
 
-**— Bob Proctor**
+**— Albus Dumbledore**
 <!--QUOTE_END-->
 
 ---
