@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated._
+_A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles._
 
-**— Albus Dumbledore**
+**— Christopher Reeve**
 <!--QUOTE_END-->
 
 ---
