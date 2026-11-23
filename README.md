@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles._
+_Trust is built and maintained by many small actions over time._
 
-**— Christopher Reeve**
+**— Lolly Daskal**
 <!--QUOTE_END-->
 
 ---
