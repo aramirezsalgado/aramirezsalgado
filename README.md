@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Trust is built and maintained by many small actions over time._
+_Teachers open the door. You enter by yourself._
 
-**— Lolly Daskal**
+**— Chinese Proverb**
 <!--QUOTE_END-->
 
 ---
