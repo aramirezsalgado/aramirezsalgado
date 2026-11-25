@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Teachers open the door. You enter by yourself._
+_Instead of worrying about what you cannot control, shift your energy to what you can create._
 
-**— Chinese Proverb**
+**— Roy T. Bennett**
 <!--QUOTE_END-->
 
 ---
