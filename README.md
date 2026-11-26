@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Instead of worrying about what you cannot control, shift your energy to what you can create._
+_Don't live the same year 75 times and call it a life._
 
-**— Roy T. Bennett**
+**— Robin Sharma**
 <!--QUOTE_END-->
 
 ---
