@@ -6,9 +6,9 @@ I'm an educator, researcher, and builder of creative AI + IoT + edge AI learning
 
 ### Quote of the Day
 <!--QUOTE_START-->
-_Don't live the same year 75 times and call it a life._
+_Never take your position for granted and never let any favors you receive go to your head._
 
-**— Robin Sharma**
+**— Robert Greene**
 <!--QUOTE_END-->
 
 ---
